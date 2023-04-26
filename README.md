@@ -6,4 +6,5 @@ The repository contains the following directories:
 - Data: directory holding the data.
 
 The repository contains the folliwng files:
-- 
+- requirements.txt: a file listing all the requirements to run the code
+- main.py: executes all functions to run the model
