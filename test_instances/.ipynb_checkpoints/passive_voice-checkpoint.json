@@ -1,0 +1,2914 @@
+[
+    {
+        "test_case": "The letter was made by the writer.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The letter was made by the author.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The letter was made by the novelist.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The letter was made by the creator.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The letter was created by the writer.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The letter was created by the author.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The letter was created by the novelist.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The letter was created by the creator.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The letter was drawn up by the writer.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The letter was drawn up by the author.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The letter was drawn up by the novelist.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The letter was drawn up by the creator.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The letter was written by the writer.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The letter was written by the author.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The letter was written by the novelist.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The letter was written by the creator.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The letter was drafted by the writer.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The letter was drafted by the author.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The letter was drafted by the novelist.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The letter was drafted by the creator.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The letter was reported by the writer.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The letter was reported by the author.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The letter was reported by the novelist.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The letter was reported by the creator.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The letter was printed by the writer.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The letter was printed by the author.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The letter was printed by the novelist.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The letter was printed by the creator.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The journal was made by the writer.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The journal was made by the author.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The journal was made by the novelist.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The journal was made by the creator.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The journal was created by the writer.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The journal was created by the author.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The journal was created by the novelist.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The journal was created by the creator.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The journal was drawn up by the writer.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The journal was drawn up by the author.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The journal was drawn up by the novelist.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The journal was drawn up by the creator.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The journal was written by the writer.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The journal was written by the author.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The journal was written by the novelist.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The journal was written by the creator.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The journal was drafted by the writer.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The journal was drafted by the author.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The journal was drafted by the novelist.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The journal was drafted by the creator.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The journal was reported by the writer.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The journal was reported by the author.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The journal was reported by the novelist.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The journal was reported by the creator.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The journal was printed by the writer.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The journal was printed by the author.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The journal was printed by the novelist.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The journal was printed by the creator.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The book was made by the writer.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The book was made by the author.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The book was made by the novelist.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The book was made by the creator.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The book was created by the writer.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The book was created by the author.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The book was created by the novelist.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The book was created by the creator.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The book was drawn up by the writer.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The book was drawn up by the author.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The book was drawn up by the novelist.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The book was drawn up by the creator.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The book was written by the writer.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The book was written by the author.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The book was written by the novelist.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The book was written by the creator.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The book was drafted by the writer.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The book was drafted by the author.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The book was drafted by the novelist.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The book was drafted by the creator.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The book was reported by the writer.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The book was reported by the author.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The book was reported by the novelist.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The book was reported by the creator.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The book was printed by the writer.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The book was printed by the author.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The book was printed by the novelist.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The book was printed by the creator.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The manual was made by the writer.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The manual was made by the author.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The manual was made by the novelist.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The manual was made by the creator.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The manual was created by the writer.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The manual was created by the author.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The manual was created by the novelist.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The manual was created by the creator.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The manual was drawn up by the writer.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The manual was drawn up by the author.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The manual was drawn up by the novelist.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The manual was drawn up by the creator.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The manual was written by the writer.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The manual was written by the author.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The manual was written by the novelist.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The manual was written by the creator.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The manual was drafted by the writer.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The manual was drafted by the author.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The manual was drafted by the novelist.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The manual was drafted by the creator.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The manual was reported by the writer.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The manual was reported by the author.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The manual was reported by the novelist.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The manual was reported by the creator.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The manual was printed by the writer.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The manual was printed by the author.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The manual was printed by the novelist.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The manual was printed by the creator.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The guide was made by the writer.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The guide was made by the author.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The guide was made by the novelist.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The guide was made by the creator.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The guide was created by the writer.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The guide was created by the author.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The guide was created by the novelist.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The guide was created by the creator.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The guide was drawn up by the writer.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The guide was drawn up by the author.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The guide was drawn up by the novelist.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The guide was drawn up by the creator.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The guide was written by the writer.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The guide was written by the author.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The guide was written by the novelist.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The guide was written by the creator.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The guide was drafted by the writer.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The guide was drafted by the author.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The guide was drafted by the novelist.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The guide was drafted by the creator.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The guide was reported by the writer.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The guide was reported by the author.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The guide was reported by the novelist.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The guide was reported by the creator.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The guide was printed by the writer.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The guide was printed by the author.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The guide was printed by the novelist.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The guide was printed by the creator.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The novel was made by the writer.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The novel was made by the author.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The novel was made by the novelist.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The novel was made by the creator.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The novel was created by the writer.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The novel was created by the author.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The novel was created by the novelist.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The novel was created by the creator.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The novel was drawn up by the writer.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The novel was drawn up by the author.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The novel was drawn up by the novelist.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The novel was drawn up by the creator.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The novel was written by the writer.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The novel was written by the author.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The novel was written by the novelist.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The novel was written by the creator.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The novel was drafted by the writer.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The novel was drafted by the author.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The novel was drafted by the novelist.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The novel was drafted by the creator.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The novel was reported by the writer.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The novel was reported by the author.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The novel was reported by the novelist.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The novel was reported by the creator.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The novel was printed by the writer.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The novel was printed by the author.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The novel was printed by the novelist.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The novel was printed by the creator.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The diary was made by the writer.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The diary was made by the author.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The diary was made by the novelist.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The diary was made by the creator.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The diary was created by the writer.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The diary was created by the author.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The diary was created by the novelist.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The diary was created by the creator.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The diary was drawn up by the writer.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The diary was drawn up by the author.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The diary was drawn up by the novelist.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The diary was drawn up by the creator.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The diary was written by the writer.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The diary was written by the author.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The diary was written by the novelist.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The diary was written by the creator.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The diary was drafted by the writer.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The diary was drafted by the author.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The diary was drafted by the novelist.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The diary was drafted by the creator.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The diary was reported by the writer.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The diary was reported by the author.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The diary was reported by the novelist.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The diary was reported by the creator.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The diary was printed by the writer.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The diary was printed by the author.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The diary was printed by the novelist.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The diary was printed by the creator.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The story was made by the writer.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The story was made by the author.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The story was made by the novelist.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The story was made by the creator.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The story was created by the writer.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The story was created by the author.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The story was created by the novelist.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The story was created by the creator.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The story was drawn up by the writer.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The story was drawn up by the author.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The story was drawn up by the novelist.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The story was drawn up by the creator.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The story was written by the writer.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The story was written by the author.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The story was written by the novelist.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The story was written by the creator.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The story was drafted by the writer.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The story was drafted by the author.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The story was drafted by the novelist.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The story was drafted by the creator.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The story was reported by the writer.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The story was reported by the author.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The story was reported by the novelist.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The story was reported by the creator.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The story was printed by the writer.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The story was printed by the author.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The story was printed by the novelist.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    },
+    {
+        "test_case": "The story was printed by the creator.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "O",
+            "O",
+            "O",
+            "B-ARG0",
+            "I-ARG0",
+            "O"
+        ]
+    }
+]

@@ -1,0 +1,1282 @@
+[
+    {
+        "capability": "subj-obj-switching",
+        "test_type": "INV",
+        "test_case": [
+            "Ann",
+            "loves",
+            "Pete",
+            "."
+        ],
+        "label": [
+            "B-ARG0",
+            "B-V",
+            "B-ARG1",
+            "O"
+        ]
+    },
+    {
+        "capability": "subj-obj-switching",
+        "test_type": "INV",
+        "test_case": [
+            "Ann",
+            "loves",
+            "Frank",
+            "."
+        ],
+        "label": [
+            "B-ARG0",
+            "B-V",
+            "B-ARG1",
+            "O"
+        ]
+    },
+    {
+        "capability": "subj-obj-switching",
+        "test_type": "INV",
+        "test_case": [
+            "Ann",
+            "loves",
+            "Marie",
+            "."
+        ],
+        "label": [
+            "B-ARG0",
+            "B-V",
+            "B-ARG1",
+            "O"
+        ]
+    },
+    {
+        "capability": "subj-obj-switching",
+        "test_type": "INV",
+        "test_case": [
+            "Ann",
+            "loves",
+            "Elise",
+            "."
+        ],
+        "label": [
+            "B-ARG0",
+            "B-V",
+            "B-ARG1",
+            "O"
+        ]
+    },
+    {
+        "capability": "subj-obj-switching",
+        "test_type": "INV",
+        "test_case": [
+            "Ann",
+            "likes",
+            "Pete",
+            "."
+        ],
+        "label": [
+            "B-ARG0",
+            "B-V",
+            "B-ARG1",
+            "O"
+        ]
+    },
+    {
+        "capability": "subj-obj-switching",
+        "test_type": "INV",
+        "test_case": [
+            "Ann",
+            "likes",
+            "Frank",
+            "."
+        ],
+        "label": [
+            "B-ARG0",
+            "B-V",
+            "B-ARG1",
+            "O"
+        ]
+    },
+    {
+        "capability": "subj-obj-switching",
+        "test_type": "INV",
+        "test_case": [
+            "Ann",
+            "likes",
+            "Marie",
+            "."
+        ],
+        "label": [
+            "B-ARG0",
+            "B-V",
+            "B-ARG1",
+            "O"
+        ]
+    },
+    {
+        "capability": "subj-obj-switching",
+        "test_type": "INV",
+        "test_case": [
+            "Ann",
+            "likes",
+            "Elise",
+            "."
+        ],
+        "label": [
+            "B-ARG0",
+            "B-V",
+            "B-ARG1",
+            "O"
+        ]
+    },
+    {
+        "capability": "subj-obj-switching",
+        "test_type": "INV",
+        "test_case": [
+            "Ann",
+            "hates",
+            "Pete",
+            "."
+        ],
+        "label": [
+            "B-ARG0",
+            "B-V",
+            "B-ARG1",
+            "O"
+        ]
+    },
+    {
+        "capability": "subj-obj-switching",
+        "test_type": "INV",
+        "test_case": [
+            "Ann",
+            "hates",
+            "Frank",
+            "."
+        ],
+        "label": [
+            "B-ARG0",
+            "B-V",
+            "B-ARG1",
+            "O"
+        ]
+    },
+    {
+        "capability": "subj-obj-switching",
+        "test_type": "INV",
+        "test_case": [
+            "Ann",
+            "hates",
+            "Marie",
+            "."
+        ],
+        "label": [
+            "B-ARG0",
+            "B-V",
+            "B-ARG1",
+            "O"
+        ]
+    },
+    {
+        "capability": "subj-obj-switching",
+        "test_type": "INV",
+        "test_case": [
+            "Ann",
+            "hates",
+            "Elise",
+            "."
+        ],
+        "label": [
+            "B-ARG0",
+            "B-V",
+            "B-ARG1",
+            "O"
+        ]
+    },
+    {
+        "capability": "subj-obj-switching",
+        "test_type": "INV",
+        "test_case": [
+            "Ann",
+            "despises",
+            "Pete",
+            "."
+        ],
+        "label": [
+            "B-ARG0",
+            "B-V",
+            "B-ARG1",
+            "O"
+        ]
+    },
+    {
+        "capability": "subj-obj-switching",
+        "test_type": "INV",
+        "test_case": [
+            "Ann",
+            "despises",
+            "Frank",
+            "."
+        ],
+        "label": [
+            "B-ARG0",
+            "B-V",
+            "B-ARG1",
+            "O"
+        ]
+    },
+    {
+        "capability": "subj-obj-switching",
+        "test_type": "INV",
+        "test_case": [
+            "Ann",
+            "despises",
+            "Marie",
+            "."
+        ],
+        "label": [
+            "B-ARG0",
+            "B-V",
+            "B-ARG1",
+            "O"
+        ]
+    },
+    {
+        "capability": "subj-obj-switching",
+        "test_type": "INV",
+        "test_case": [
+            "Ann",
+            "despises",
+            "Elise",
+            "."
+        ],
+        "label": [
+            "B-ARG0",
+            "B-V",
+            "B-ARG1",
+            "O"
+        ]
+    },
+    {
+        "capability": "subj-obj-switching",
+        "test_type": "INV",
+        "test_case": [
+            "Ann",
+            "hugs",
+            "Pete",
+            "."
+        ],
+        "label": [
+            "B-ARG0",
+            "B-V",
+            "B-ARG1",
+            "O"
+        ]
+    },
+    {
+        "capability": "subj-obj-switching",
+        "test_type": "INV",
+        "test_case": [
+            "Ann",
+            "hugs",
+            "Frank",
+            "."
+        ],
+        "label": [
+            "B-ARG0",
+            "B-V",
+            "B-ARG1",
+            "O"
+        ]
+    },
+    {
+        "capability": "subj-obj-switching",
+        "test_type": "INV",
+        "test_case": [
+            "Ann",
+            "hugs",
+            "Marie",
+            "."
+        ],
+        "label": [
+            "B-ARG0",
+            "B-V",
+            "B-ARG1",
+            "O"
+        ]
+    },
+    {
+        "capability": "subj-obj-switching",
+        "test_type": "INV",
+        "test_case": [
+            "Ann",
+            "hugs",
+            "Elise",
+            "."
+        ],
+        "label": [
+            "B-ARG0",
+            "B-V",
+            "B-ARG1",
+            "O"
+        ]
+    },
+    {
+        "capability": "subj-obj-switching",
+        "test_type": "INV",
+        "test_case": [
+            "Rose",
+            "loves",
+            "Pete",
+            "."
+        ],
+        "label": [
+            "B-ARG0",
+            "B-V",
+            "B-ARG1",
+            "O"
+        ]
+    },
+    {
+        "capability": "subj-obj-switching",
+        "test_type": "INV",
+        "test_case": [
+            "Rose",
+            "loves",
+            "Frank",
+            "."
+        ],
+        "label": [
+            "B-ARG0",
+            "B-V",
+            "B-ARG1",
+            "O"
+        ]
+    },
+    {
+        "capability": "subj-obj-switching",
+        "test_type": "INV",
+        "test_case": [
+            "Rose",
+            "loves",
+            "Marie",
+            "."
+        ],
+        "label": [
+            "B-ARG0",
+            "B-V",
+            "B-ARG1",
+            "O"
+        ]
+    },
+    {
+        "capability": "subj-obj-switching",
+        "test_type": "INV",
+        "test_case": [
+            "Rose",
+            "loves",
+            "Elise",
+            "."
+        ],
+        "label": [
+            "B-ARG0",
+            "B-V",
+            "B-ARG1",
+            "O"
+        ]
+    },
+    {
+        "capability": "subj-obj-switching",
+        "test_type": "INV",
+        "test_case": [
+            "Rose",
+            "likes",
+            "Pete",
+            "."
+        ],
+        "label": [
+            "B-ARG0",
+            "B-V",
+            "B-ARG1",
+            "O"
+        ]
+    },
+    {
+        "capability": "subj-obj-switching",
+        "test_type": "INV",
+        "test_case": [
+            "Rose",
+            "likes",
+            "Frank",
+            "."
+        ],
+        "label": [
+            "B-ARG0",
+            "B-V",
+            "B-ARG1",
+            "O"
+        ]
+    },
+    {
+        "capability": "subj-obj-switching",
+        "test_type": "INV",
+        "test_case": [
+            "Rose",
+            "likes",
+            "Marie",
+            "."
+        ],
+        "label": [
+            "B-ARG0",
+            "B-V",
+            "B-ARG1",
+            "O"
+        ]
+    },
+    {
+        "capability": "subj-obj-switching",
+        "test_type": "INV",
+        "test_case": [
+            "Rose",
+            "likes",
+            "Elise",
+            "."
+        ],
+        "label": [
+            "B-ARG0",
+            "B-V",
+            "B-ARG1",
+            "O"
+        ]
+    },
+    {
+        "capability": "subj-obj-switching",
+        "test_type": "INV",
+        "test_case": [
+            "Rose",
+            "hates",
+            "Pete",
+            "."
+        ],
+        "label": [
+            "B-ARG0",
+            "B-V",
+            "B-ARG1",
+            "O"
+        ]
+    },
+    {
+        "capability": "subj-obj-switching",
+        "test_type": "INV",
+        "test_case": [
+            "Rose",
+            "hates",
+            "Frank",
+            "."
+        ],
+        "label": [
+            "B-ARG0",
+            "B-V",
+            "B-ARG1",
+            "O"
+        ]
+    },
+    {
+        "capability": "subj-obj-switching",
+        "test_type": "INV",
+        "test_case": [
+            "Rose",
+            "hates",
+            "Marie",
+            "."
+        ],
+        "label": [
+            "B-ARG0",
+            "B-V",
+            "B-ARG1",
+            "O"
+        ]
+    },
+    {
+        "capability": "subj-obj-switching",
+        "test_type": "INV",
+        "test_case": [
+            "Rose",
+            "hates",
+            "Elise",
+            "."
+        ],
+        "label": [
+            "B-ARG0",
+            "B-V",
+            "B-ARG1",
+            "O"
+        ]
+    },
+    {
+        "capability": "subj-obj-switching",
+        "test_type": "INV",
+        "test_case": [
+            "Rose",
+            "despises",
+            "Pete",
+            "."
+        ],
+        "label": [
+            "B-ARG0",
+            "B-V",
+            "B-ARG1",
+            "O"
+        ]
+    },
+    {
+        "capability": "subj-obj-switching",
+        "test_type": "INV",
+        "test_case": [
+            "Rose",
+            "despises",
+            "Frank",
+            "."
+        ],
+        "label": [
+            "B-ARG0",
+            "B-V",
+            "B-ARG1",
+            "O"
+        ]
+    },
+    {
+        "capability": "subj-obj-switching",
+        "test_type": "INV",
+        "test_case": [
+            "Rose",
+            "despises",
+            "Marie",
+            "."
+        ],
+        "label": [
+            "B-ARG0",
+            "B-V",
+            "B-ARG1",
+            "O"
+        ]
+    },
+    {
+        "capability": "subj-obj-switching",
+        "test_type": "INV",
+        "test_case": [
+            "Rose",
+            "despises",
+            "Elise",
+            "."
+        ],
+        "label": [
+            "B-ARG0",
+            "B-V",
+            "B-ARG1",
+            "O"
+        ]
+    },
+    {
+        "capability": "subj-obj-switching",
+        "test_type": "INV",
+        "test_case": [
+            "Rose",
+            "hugs",
+            "Pete",
+            "."
+        ],
+        "label": [
+            "B-ARG0",
+            "B-V",
+            "B-ARG1",
+            "O"
+        ]
+    },
+    {
+        "capability": "subj-obj-switching",
+        "test_type": "INV",
+        "test_case": [
+            "Rose",
+            "hugs",
+            "Frank",
+            "."
+        ],
+        "label": [
+            "B-ARG0",
+            "B-V",
+            "B-ARG1",
+            "O"
+        ]
+    },
+    {
+        "capability": "subj-obj-switching",
+        "test_type": "INV",
+        "test_case": [
+            "Rose",
+            "hugs",
+            "Marie",
+            "."
+        ],
+        "label": [
+            "B-ARG0",
+            "B-V",
+            "B-ARG1",
+            "O"
+        ]
+    },
+    {
+        "capability": "subj-obj-switching",
+        "test_type": "INV",
+        "test_case": [
+            "Rose",
+            "hugs",
+            "Elise",
+            "."
+        ],
+        "label": [
+            "B-ARG0",
+            "B-V",
+            "B-ARG1",
+            "O"
+        ]
+    },
+    {
+        "capability": "subj-obj-switching",
+        "test_type": "INV",
+        "test_case": [
+            "Noah",
+            "loves",
+            "Pete",
+            "."
+        ],
+        "label": [
+            "B-ARG0",
+            "B-V",
+            "B-ARG1",
+            "O"
+        ]
+    },
+    {
+        "capability": "subj-obj-switching",
+        "test_type": "INV",
+        "test_case": [
+            "Noah",
+            "loves",
+            "Frank",
+            "."
+        ],
+        "label": [
+            "B-ARG0",
+            "B-V",
+            "B-ARG1",
+            "O"
+        ]
+    },
+    {
+        "capability": "subj-obj-switching",
+        "test_type": "INV",
+        "test_case": [
+            "Noah",
+            "loves",
+            "Marie",
+            "."
+        ],
+        "label": [
+            "B-ARG0",
+            "B-V",
+            "B-ARG1",
+            "O"
+        ]
+    },
+    {
+        "capability": "subj-obj-switching",
+        "test_type": "INV",
+        "test_case": [
+            "Noah",
+            "loves",
+            "Elise",
+            "."
+        ],
+        "label": [
+            "B-ARG0",
+            "B-V",
+            "B-ARG1",
+            "O"
+        ]
+    },
+    {
+        "capability": "subj-obj-switching",
+        "test_type": "INV",
+        "test_case": [
+            "Noah",
+            "likes",
+            "Pete",
+            "."
+        ],
+        "label": [
+            "B-ARG0",
+            "B-V",
+            "B-ARG1",
+            "O"
+        ]
+    },
+    {
+        "capability": "subj-obj-switching",
+        "test_type": "INV",
+        "test_case": [
+            "Noah",
+            "likes",
+            "Frank",
+            "."
+        ],
+        "label": [
+            "B-ARG0",
+            "B-V",
+            "B-ARG1",
+            "O"
+        ]
+    },
+    {
+        "capability": "subj-obj-switching",
+        "test_type": "INV",
+        "test_case": [
+            "Noah",
+            "likes",
+            "Marie",
+            "."
+        ],
+        "label": [
+            "B-ARG0",
+            "B-V",
+            "B-ARG1",
+            "O"
+        ]
+    },
+    {
+        "capability": "subj-obj-switching",
+        "test_type": "INV",
+        "test_case": [
+            "Noah",
+            "likes",
+            "Elise",
+            "."
+        ],
+        "label": [
+            "B-ARG0",
+            "B-V",
+            "B-ARG1",
+            "O"
+        ]
+    },
+    {
+        "capability": "subj-obj-switching",
+        "test_type": "INV",
+        "test_case": [
+            "Noah",
+            "hates",
+            "Pete",
+            "."
+        ],
+        "label": [
+            "B-ARG0",
+            "B-V",
+            "B-ARG1",
+            "O"
+        ]
+    },
+    {
+        "capability": "subj-obj-switching",
+        "test_type": "INV",
+        "test_case": [
+            "Noah",
+            "hates",
+            "Frank",
+            "."
+        ],
+        "label": [
+            "B-ARG0",
+            "B-V",
+            "B-ARG1",
+            "O"
+        ]
+    },
+    {
+        "capability": "subj-obj-switching",
+        "test_type": "INV",
+        "test_case": [
+            "Noah",
+            "hates",
+            "Marie",
+            "."
+        ],
+        "label": [
+            "B-ARG0",
+            "B-V",
+            "B-ARG1",
+            "O"
+        ]
+    },
+    {
+        "capability": "subj-obj-switching",
+        "test_type": "INV",
+        "test_case": [
+            "Noah",
+            "hates",
+            "Elise",
+            "."
+        ],
+        "label": [
+            "B-ARG0",
+            "B-V",
+            "B-ARG1",
+            "O"
+        ]
+    },
+    {
+        "capability": "subj-obj-switching",
+        "test_type": "INV",
+        "test_case": [
+            "Noah",
+            "despises",
+            "Pete",
+            "."
+        ],
+        "label": [
+            "B-ARG0",
+            "B-V",
+            "B-ARG1",
+            "O"
+        ]
+    },
+    {
+        "capability": "subj-obj-switching",
+        "test_type": "INV",
+        "test_case": [
+            "Noah",
+            "despises",
+            "Frank",
+            "."
+        ],
+        "label": [
+            "B-ARG0",
+            "B-V",
+            "B-ARG1",
+            "O"
+        ]
+    },
+    {
+        "capability": "subj-obj-switching",
+        "test_type": "INV",
+        "test_case": [
+            "Noah",
+            "despises",
+            "Marie",
+            "."
+        ],
+        "label": [
+            "B-ARG0",
+            "B-V",
+            "B-ARG1",
+            "O"
+        ]
+    },
+    {
+        "capability": "subj-obj-switching",
+        "test_type": "INV",
+        "test_case": [
+            "Noah",
+            "despises",
+            "Elise",
+            "."
+        ],
+        "label": [
+            "B-ARG0",
+            "B-V",
+            "B-ARG1",
+            "O"
+        ]
+    },
+    {
+        "capability": "subj-obj-switching",
+        "test_type": "INV",
+        "test_case": [
+            "Noah",
+            "hugs",
+            "Pete",
+            "."
+        ],
+        "label": [
+            "B-ARG0",
+            "B-V",
+            "B-ARG1",
+            "O"
+        ]
+    },
+    {
+        "capability": "subj-obj-switching",
+        "test_type": "INV",
+        "test_case": [
+            "Noah",
+            "hugs",
+            "Frank",
+            "."
+        ],
+        "label": [
+            "B-ARG0",
+            "B-V",
+            "B-ARG1",
+            "O"
+        ]
+    },
+    {
+        "capability": "subj-obj-switching",
+        "test_type": "INV",
+        "test_case": [
+            "Noah",
+            "hugs",
+            "Marie",
+            "."
+        ],
+        "label": [
+            "B-ARG0",
+            "B-V",
+            "B-ARG1",
+            "O"
+        ]
+    },
+    {
+        "capability": "subj-obj-switching",
+        "test_type": "INV",
+        "test_case": [
+            "Noah",
+            "hugs",
+            "Elise",
+            "."
+        ],
+        "label": [
+            "B-ARG0",
+            "B-V",
+            "B-ARG1",
+            "O"
+        ]
+    },
+    {
+        "capability": "subj-obj-switching",
+        "test_type": "INV",
+        "test_case": [
+            "Coco",
+            "loves",
+            "Pete",
+            "."
+        ],
+        "label": [
+            "B-ARG0",
+            "B-V",
+            "B-ARG1",
+            "O"
+        ]
+    },
+    {
+        "capability": "subj-obj-switching",
+        "test_type": "INV",
+        "test_case": [
+            "Coco",
+            "loves",
+            "Frank",
+            "."
+        ],
+        "label": [
+            "B-ARG0",
+            "B-V",
+            "B-ARG1",
+            "O"
+        ]
+    },
+    {
+        "capability": "subj-obj-switching",
+        "test_type": "INV",
+        "test_case": [
+            "Coco",
+            "loves",
+            "Marie",
+            "."
+        ],
+        "label": [
+            "B-ARG0",
+            "B-V",
+            "B-ARG1",
+            "O"
+        ]
+    },
+    {
+        "capability": "subj-obj-switching",
+        "test_type": "INV",
+        "test_case": [
+            "Coco",
+            "loves",
+            "Elise",
+            "."
+        ],
+        "label": [
+            "B-ARG0",
+            "B-V",
+            "B-ARG1",
+            "O"
+        ]
+    },
+    {
+        "capability": "subj-obj-switching",
+        "test_type": "INV",
+        "test_case": [
+            "Coco",
+            "likes",
+            "Pete",
+            "."
+        ],
+        "label": [
+            "B-ARG0",
+            "B-V",
+            "B-ARG1",
+            "O"
+        ]
+    },
+    {
+        "capability": "subj-obj-switching",
+        "test_type": "INV",
+        "test_case": [
+            "Coco",
+            "likes",
+            "Frank",
+            "."
+        ],
+        "label": [
+            "B-ARG0",
+            "B-V",
+            "B-ARG1",
+            "O"
+        ]
+    },
+    {
+        "capability": "subj-obj-switching",
+        "test_type": "INV",
+        "test_case": [
+            "Coco",
+            "likes",
+            "Marie",
+            "."
+        ],
+        "label": [
+            "B-ARG0",
+            "B-V",
+            "B-ARG1",
+            "O"
+        ]
+    },
+    {
+        "capability": "subj-obj-switching",
+        "test_type": "INV",
+        "test_case": [
+            "Coco",
+            "likes",
+            "Elise",
+            "."
+        ],
+        "label": [
+            "B-ARG0",
+            "B-V",
+            "B-ARG1",
+            "O"
+        ]
+    },
+    {
+        "capability": "subj-obj-switching",
+        "test_type": "INV",
+        "test_case": [
+            "Coco",
+            "hates",
+            "Pete",
+            "."
+        ],
+        "label": [
+            "B-ARG0",
+            "B-V",
+            "B-ARG1",
+            "O"
+        ]
+    },
+    {
+        "capability": "subj-obj-switching",
+        "test_type": "INV",
+        "test_case": [
+            "Coco",
+            "hates",
+            "Frank",
+            "."
+        ],
+        "label": [
+            "B-ARG0",
+            "B-V",
+            "B-ARG1",
+            "O"
+        ]
+    },
+    {
+        "capability": "subj-obj-switching",
+        "test_type": "INV",
+        "test_case": [
+            "Coco",
+            "hates",
+            "Marie",
+            "."
+        ],
+        "label": [
+            "B-ARG0",
+            "B-V",
+            "B-ARG1",
+            "O"
+        ]
+    },
+    {
+        "capability": "subj-obj-switching",
+        "test_type": "INV",
+        "test_case": [
+            "Coco",
+            "hates",
+            "Elise",
+            "."
+        ],
+        "label": [
+            "B-ARG0",
+            "B-V",
+            "B-ARG1",
+            "O"
+        ]
+    },
+    {
+        "capability": "subj-obj-switching",
+        "test_type": "INV",
+        "test_case": [
+            "Coco",
+            "despises",
+            "Pete",
+            "."
+        ],
+        "label": [
+            "B-ARG0",
+            "B-V",
+            "B-ARG1",
+            "O"
+        ]
+    },
+    {
+        "capability": "subj-obj-switching",
+        "test_type": "INV",
+        "test_case": [
+            "Coco",
+            "despises",
+            "Frank",
+            "."
+        ],
+        "label": [
+            "B-ARG0",
+            "B-V",
+            "B-ARG1",
+            "O"
+        ]
+    },
+    {
+        "capability": "subj-obj-switching",
+        "test_type": "INV",
+        "test_case": [
+            "Coco",
+            "despises",
+            "Marie",
+            "."
+        ],
+        "label": [
+            "B-ARG0",
+            "B-V",
+            "B-ARG1",
+            "O"
+        ]
+    },
+    {
+        "capability": "subj-obj-switching",
+        "test_type": "INV",
+        "test_case": [
+            "Coco",
+            "despises",
+            "Elise",
+            "."
+        ],
+        "label": [
+            "B-ARG0",
+            "B-V",
+            "B-ARG1",
+            "O"
+        ]
+    },
+    {
+        "capability": "subj-obj-switching",
+        "test_type": "INV",
+        "test_case": [
+            "Coco",
+            "hugs",
+            "Pete",
+            "."
+        ],
+        "label": [
+            "B-ARG0",
+            "B-V",
+            "B-ARG1",
+            "O"
+        ]
+    },
+    {
+        "capability": "subj-obj-switching",
+        "test_type": "INV",
+        "test_case": [
+            "Coco",
+            "hugs",
+            "Frank",
+            "."
+        ],
+        "label": [
+            "B-ARG0",
+            "B-V",
+            "B-ARG1",
+            "O"
+        ]
+    },
+    {
+        "capability": "subj-obj-switching",
+        "test_type": "INV",
+        "test_case": [
+            "Coco",
+            "hugs",
+            "Marie",
+            "."
+        ],
+        "label": [
+            "B-ARG0",
+            "B-V",
+            "B-ARG1",
+            "O"
+        ]
+    },
+    {
+        "capability": "subj-obj-switching",
+        "test_type": "INV",
+        "test_case": [
+            "Coco",
+            "hugs",
+            "Elise",
+            "."
+        ],
+        "label": [
+            "B-ARG0",
+            "B-V",
+            "B-ARG1",
+            "O"
+        ]
+    }
+]
