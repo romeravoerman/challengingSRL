@@ -1,0 +1,2498 @@
+[
+    {
+        "capability": "passive_voice",
+        "test_type": "MFT",
+        "test_case": [
+            "The letter was made by the writer.",
+            "The writer made the letter."
+        ],
+        "target": [
+            "letter",
+            "letter"
+        ],
+        "label": "I-ARG1"
+    },
+    {
+        "capability": "passive_voice",
+        "test_type": "MFT",
+        "test_case": [
+            "The letter was made by the author.",
+            "The author made the letter."
+        ],
+        "target": [
+            "letter",
+            "letter"
+        ],
+        "label": "I-ARG1"
+    },
+    {
+        "capability": "passive_voice",
+        "test_type": "MFT",
+        "test_case": [
+            "The letter was made by the novelist.",
+            "The novelist made the letter."
+        ],
+        "target": [
+            "letter",
+            "letter"
+        ],
+        "label": "I-ARG1"
+    },
+    {
+        "capability": "passive_voice",
+        "test_type": "MFT",
+        "test_case": [
+            "The letter was made by the creator.",
+            "The creator made the letter."
+        ],
+        "target": [
+            "letter",
+            "letter"
+        ],
+        "label": "I-ARG1"
+    },
+    {
+        "capability": "passive_voice",
+        "test_type": "MFT",
+        "test_case": [
+            "The letter was created by the writer.",
+            "The writer created the letter."
+        ],
+        "target": [
+            "letter",
+            "letter"
+        ],
+        "label": "I-ARG1"
+    },
+    {
+        "capability": "passive_voice",
+        "test_type": "MFT",
+        "test_case": [
+            "The letter was created by the author.",
+            "The author created the letter."
+        ],
+        "target": [
+            "letter",
+            "letter"
+        ],
+        "label": "I-ARG1"
+    },
+    {
+        "capability": "passive_voice",
+        "test_type": "MFT",
+        "test_case": [
+            "The letter was created by the novelist.",
+            "The novelist created the letter."
+        ],
+        "target": [
+            "letter",
+            "letter"
+        ],
+        "label": "I-ARG1"
+    },
+    {
+        "capability": "passive_voice",
+        "test_type": "MFT",
+        "test_case": [
+            "The letter was created by the creator.",
+            "The creator created the letter."
+        ],
+        "target": [
+            "letter",
+            "letter"
+        ],
+        "label": "I-ARG1"
+    },
+    {
+        "capability": "passive_voice",
+        "test_type": "MFT",
+        "test_case": [
+            "The letter was written by the writer.",
+            "The writer wrote the letter."
+        ],
+        "target": [
+            "letter",
+            "letter"
+        ],
+        "label": "I-ARG1"
+    },
+    {
+        "capability": "passive_voice",
+        "test_type": "MFT",
+        "test_case": [
+            "The letter was written by the author.",
+            "The author wrote the letter."
+        ],
+        "target": [
+            "letter",
+            "letter"
+        ],
+        "label": "I-ARG1"
+    },
+    {
+        "capability": "passive_voice",
+        "test_type": "MFT",
+        "test_case": [
+            "The letter was written by the novelist.",
+            "The novelist wrote the letter."
+        ],
+        "target": [
+            "letter",
+            "letter"
+        ],
+        "label": "I-ARG1"
+    },
+    {
+        "capability": "passive_voice",
+        "test_type": "MFT",
+        "test_case": [
+            "The letter was written by the creator.",
+            "The creator wrote the letter."
+        ],
+        "target": [
+            "letter",
+            "letter"
+        ],
+        "label": "I-ARG1"
+    },
+    {
+        "capability": "passive_voice",
+        "test_type": "MFT",
+        "test_case": [
+            "The letter was drafted by the writer.",
+            "The writer drafted the letter."
+        ],
+        "target": [
+            "letter",
+            "letter"
+        ],
+        "label": "I-ARG1"
+    },
+    {
+        "capability": "passive_voice",
+        "test_type": "MFT",
+        "test_case": [
+            "The letter was drafted by the author.",
+            "The author drafted the letter."
+        ],
+        "target": [
+            "letter",
+            "letter"
+        ],
+        "label": "I-ARG1"
+    },
+    {
+        "capability": "passive_voice",
+        "test_type": "MFT",
+        "test_case": [
+            "The letter was drafted by the novelist.",
+            "The novelist drafted the letter."
+        ],
+        "target": [
+            "letter",
+            "letter"
+        ],
+        "label": "I-ARG1"
+    },
+    {
+        "capability": "passive_voice",
+        "test_type": "MFT",
+        "test_case": [
+            "The letter was drafted by the creator.",
+            "The creator drafted the letter."
+        ],
+        "target": [
+            "letter",
+            "letter"
+        ],
+        "label": "I-ARG1"
+    },
+    {
+        "capability": "passive_voice",
+        "test_type": "MFT",
+        "test_case": [
+            "The letter was reported by the writer.",
+            "The writer reported the letter."
+        ],
+        "target": [
+            "letter",
+            "letter"
+        ],
+        "label": "I-ARG1"
+    },
+    {
+        "capability": "passive_voice",
+        "test_type": "MFT",
+        "test_case": [
+            "The letter was reported by the author.",
+            "The author reported the letter."
+        ],
+        "target": [
+            "letter",
+            "letter"
+        ],
+        "label": "I-ARG1"
+    },
+    {
+        "capability": "passive_voice",
+        "test_type": "MFT",
+        "test_case": [
+            "The letter was reported by the novelist.",
+            "The novelist reported the letter."
+        ],
+        "target": [
+            "letter",
+            "letter"
+        ],
+        "label": "I-ARG1"
+    },
+    {
+        "capability": "passive_voice",
+        "test_type": "MFT",
+        "test_case": [
+            "The letter was reported by the creator.",
+            "The creator reported the letter."
+        ],
+        "target": [
+            "letter",
+            "letter"
+        ],
+        "label": "I-ARG1"
+    },
+    {
+        "capability": "passive_voice",
+        "test_type": "MFT",
+        "test_case": [
+            "The letter was printed by the writer.",
+            "The writer printed the letter."
+        ],
+        "target": [
+            "letter",
+            "letter"
+        ],
+        "label": "I-ARG1"
+    },
+    {
+        "capability": "passive_voice",
+        "test_type": "MFT",
+        "test_case": [
+            "The letter was printed by the author.",
+            "The author printed the letter."
+        ],
+        "target": [
+            "letter",
+            "letter"
+        ],
+        "label": "I-ARG1"
+    },
+    {
+        "capability": "passive_voice",
+        "test_type": "MFT",
+        "test_case": [
+            "The letter was printed by the novelist.",
+            "The novelist printed the letter."
+        ],
+        "target": [
+            "letter",
+            "letter"
+        ],
+        "label": "I-ARG1"
+    },
+    {
+        "capability": "passive_voice",
+        "test_type": "MFT",
+        "test_case": [
+            "The letter was printed by the creator.",
+            "The creator printed the letter."
+        ],
+        "target": [
+            "letter",
+            "letter"
+        ],
+        "label": "I-ARG1"
+    },
+    {
+        "capability": "passive_voice",
+        "test_type": "MFT",
+        "test_case": [
+            "The journal was made by the writer.",
+            "The writer made the journal."
+        ],
+        "target": [
+            "journal",
+            "journal"
+        ],
+        "label": "I-ARG1"
+    },
+    {
+        "capability": "passive_voice",
+        "test_type": "MFT",
+        "test_case": [
+            "The journal was made by the author.",
+            "The author made the journal."
+        ],
+        "target": [
+            "journal",
+            "journal"
+        ],
+        "label": "I-ARG1"
+    },
+    {
+        "capability": "passive_voice",
+        "test_type": "MFT",
+        "test_case": [
+            "The journal was made by the novelist.",
+            "The novelist made the journal."
+        ],
+        "target": [
+            "journal",
+            "journal"
+        ],
+        "label": "I-ARG1"
+    },
+    {
+        "capability": "passive_voice",
+        "test_type": "MFT",
+        "test_case": [
+            "The journal was made by the creator.",
+            "The creator made the journal."
+        ],
+        "target": [
+            "journal",
+            "journal"
+        ],
+        "label": "I-ARG1"
+    },
+    {
+        "capability": "passive_voice",
+        "test_type": "MFT",
+        "test_case": [
+            "The journal was created by the writer.",
+            "The writer created the journal."
+        ],
+        "target": [
+            "journal",
+            "journal"
+        ],
+        "label": "I-ARG1"
+    },
+    {
+        "capability": "passive_voice",
+        "test_type": "MFT",
+        "test_case": [
+            "The journal was created by the author.",
+            "The author created the journal."
+        ],
+        "target": [
+            "journal",
+            "journal"
+        ],
+        "label": "I-ARG1"
+    },
+    {
+        "capability": "passive_voice",
+        "test_type": "MFT",
+        "test_case": [
+            "The journal was created by the novelist.",
+            "The novelist created the journal."
+        ],
+        "target": [
+            "journal",
+            "journal"
+        ],
+        "label": "I-ARG1"
+    },
+    {
+        "capability": "passive_voice",
+        "test_type": "MFT",
+        "test_case": [
+            "The journal was created by the creator.",
+            "The creator created the journal."
+        ],
+        "target": [
+            "journal",
+            "journal"
+        ],
+        "label": "I-ARG1"
+    },
+    {
+        "capability": "passive_voice",
+        "test_type": "MFT",
+        "test_case": [
+            "The journal was written by the writer.",
+            "The writer wrote the journal."
+        ],
+        "target": [
+            "journal",
+            "journal"
+        ],
+        "label": "I-ARG1"
+    },
+    {
+        "capability": "passive_voice",
+        "test_type": "MFT",
+        "test_case": [
+            "The journal was written by the author.",
+            "The author wrote the journal."
+        ],
+        "target": [
+            "journal",
+            "journal"
+        ],
+        "label": "I-ARG1"
+    },
+    {
+        "capability": "passive_voice",
+        "test_type": "MFT",
+        "test_case": [
+            "The journal was written by the novelist.",
+            "The novelist wrote the journal."
+        ],
+        "target": [
+            "journal",
+            "journal"
+        ],
+        "label": "I-ARG1"
+    },
+    {
+        "capability": "passive_voice",
+        "test_type": "MFT",
+        "test_case": [
+            "The journal was written by the creator.",
+            "The creator wrote the journal."
+        ],
+        "target": [
+            "journal",
+            "journal"
+        ],
+        "label": "I-ARG1"
+    },
+    {
+        "capability": "passive_voice",
+        "test_type": "MFT",
+        "test_case": [
+            "The journal was drafted by the writer.",
+            "The writer drafted the journal."
+        ],
+        "target": [
+            "journal",
+            "journal"
+        ],
+        "label": "I-ARG1"
+    },
+    {
+        "capability": "passive_voice",
+        "test_type": "MFT",
+        "test_case": [
+            "The journal was drafted by the author.",
+            "The author drafted the journal."
+        ],
+        "target": [
+            "journal",
+            "journal"
+        ],
+        "label": "I-ARG1"
+    },
+    {
+        "capability": "passive_voice",
+        "test_type": "MFT",
+        "test_case": [
+            "The journal was drafted by the novelist.",
+            "The novelist drafted the journal."
+        ],
+        "target": [
+            "journal",
+            "journal"
+        ],
+        "label": "I-ARG1"
+    },
+    {
+        "capability": "passive_voice",
+        "test_type": "MFT",
+        "test_case": [
+            "The journal was drafted by the creator.",
+            "The creator drafted the journal."
+        ],
+        "target": [
+            "journal",
+            "journal"
+        ],
+        "label": "I-ARG1"
+    },
+    {
+        "capability": "passive_voice",
+        "test_type": "MFT",
+        "test_case": [
+            "The journal was reported by the writer.",
+            "The writer reported the journal."
+        ],
+        "target": [
+            "journal",
+            "journal"
+        ],
+        "label": "I-ARG1"
+    },
+    {
+        "capability": "passive_voice",
+        "test_type": "MFT",
+        "test_case": [
+            "The journal was reported by the author.",
+            "The author reported the journal."
+        ],
+        "target": [
+            "journal",
+            "journal"
+        ],
+        "label": "I-ARG1"
+    },
+    {
+        "capability": "passive_voice",
+        "test_type": "MFT",
+        "test_case": [
+            "The journal was reported by the novelist.",
+            "The novelist reported the journal."
+        ],
+        "target": [
+            "journal",
+            "journal"
+        ],
+        "label": "I-ARG1"
+    },
+    {
+        "capability": "passive_voice",
+        "test_type": "MFT",
+        "test_case": [
+            "The journal was reported by the creator.",
+            "The creator reported the journal."
+        ],
+        "target": [
+            "journal",
+            "journal"
+        ],
+        "label": "I-ARG1"
+    },
+    {
+        "capability": "passive_voice",
+        "test_type": "MFT",
+        "test_case": [
+            "The journal was printed by the writer.",
+            "The writer printed the journal."
+        ],
+        "target": [
+            "journal",
+            "journal"
+        ],
+        "label": "I-ARG1"
+    },
+    {
+        "capability": "passive_voice",
+        "test_type": "MFT",
+        "test_case": [
+            "The journal was printed by the author.",
+            "The author printed the journal."
+        ],
+        "target": [
+            "journal",
+            "journal"
+        ],
+        "label": "I-ARG1"
+    },
+    {
+        "capability": "passive_voice",
+        "test_type": "MFT",
+        "test_case": [
+            "The journal was printed by the novelist.",
+            "The novelist printed the journal."
+        ],
+        "target": [
+            "journal",
+            "journal"
+        ],
+        "label": "I-ARG1"
+    },
+    {
+        "capability": "passive_voice",
+        "test_type": "MFT",
+        "test_case": [
+            "The journal was printed by the creator.",
+            "The creator printed the journal."
+        ],
+        "target": [
+            "journal",
+            "journal"
+        ],
+        "label": "I-ARG1"
+    },
+    {
+        "capability": "passive_voice",
+        "test_type": "MFT",
+        "test_case": [
+            "The book was made by the writer.",
+            "The writer made the book."
+        ],
+        "target": [
+            "book",
+            "book"
+        ],
+        "label": "I-ARG1"
+    },
+    {
+        "capability": "passive_voice",
+        "test_type": "MFT",
+        "test_case": [
+            "The book was made by the author.",
+            "The author made the book."
+        ],
+        "target": [
+            "book",
+            "book"
+        ],
+        "label": "I-ARG1"
+    },
+    {
+        "capability": "passive_voice",
+        "test_type": "MFT",
+        "test_case": [
+            "The book was made by the novelist.",
+            "The novelist made the book."
+        ],
+        "target": [
+            "book",
+            "book"
+        ],
+        "label": "I-ARG1"
+    },
+    {
+        "capability": "passive_voice",
+        "test_type": "MFT",
+        "test_case": [
+            "The book was made by the creator.",
+            "The creator made the book."
+        ],
+        "target": [
+            "book",
+            "book"
+        ],
+        "label": "I-ARG1"
+    },
+    {
+        "capability": "passive_voice",
+        "test_type": "MFT",
+        "test_case": [
+            "The book was created by the writer.",
+            "The writer created the book."
+        ],
+        "target": [
+            "book",
+            "book"
+        ],
+        "label": "I-ARG1"
+    },
+    {
+        "capability": "passive_voice",
+        "test_type": "MFT",
+        "test_case": [
+            "The book was created by the author.",
+            "The author created the book."
+        ],
+        "target": [
+            "book",
+            "book"
+        ],
+        "label": "I-ARG1"
+    },
+    {
+        "capability": "passive_voice",
+        "test_type": "MFT",
+        "test_case": [
+            "The book was created by the novelist.",
+            "The novelist created the book."
+        ],
+        "target": [
+            "book",
+            "book"
+        ],
+        "label": "I-ARG1"
+    },
+    {
+        "capability": "passive_voice",
+        "test_type": "MFT",
+        "test_case": [
+            "The book was created by the creator.",
+            "The creator created the book."
+        ],
+        "target": [
+            "book",
+            "book"
+        ],
+        "label": "I-ARG1"
+    },
+    {
+        "capability": "passive_voice",
+        "test_type": "MFT",
+        "test_case": [
+            "The book was written by the writer.",
+            "The writer wrote the book."
+        ],
+        "target": [
+            "book",
+            "book"
+        ],
+        "label": "I-ARG1"
+    },
+    {
+        "capability": "passive_voice",
+        "test_type": "MFT",
+        "test_case": [
+            "The book was written by the author.",
+            "The author wrote the book."
+        ],
+        "target": [
+            "book",
+            "book"
+        ],
+        "label": "I-ARG1"
+    },
+    {
+        "capability": "passive_voice",
+        "test_type": "MFT",
+        "test_case": [
+            "The book was written by the novelist.",
+            "The novelist wrote the book."
+        ],
+        "target": [
+            "book",
+            "book"
+        ],
+        "label": "I-ARG1"
+    },
+    {
+        "capability": "passive_voice",
+        "test_type": "MFT",
+        "test_case": [
+            "The book was written by the creator.",
+            "The creator wrote the book."
+        ],
+        "target": [
+            "book",
+            "book"
+        ],
+        "label": "I-ARG1"
+    },
+    {
+        "capability": "passive_voice",
+        "test_type": "MFT",
+        "test_case": [
+            "The book was drafted by the writer.",
+            "The writer drafted the book."
+        ],
+        "target": [
+            "book",
+            "book"
+        ],
+        "label": "I-ARG1"
+    },
+    {
+        "capability": "passive_voice",
+        "test_type": "MFT",
+        "test_case": [
+            "The book was drafted by the author.",
+            "The author drafted the book."
+        ],
+        "target": [
+            "book",
+            "book"
+        ],
+        "label": "I-ARG1"
+    },
+    {
+        "capability": "passive_voice",
+        "test_type": "MFT",
+        "test_case": [
+            "The book was drafted by the novelist.",
+            "The novelist drafted the book."
+        ],
+        "target": [
+            "book",
+            "book"
+        ],
+        "label": "I-ARG1"
+    },
+    {
+        "capability": "passive_voice",
+        "test_type": "MFT",
+        "test_case": [
+            "The book was drafted by the creator.",
+            "The creator drafted the book."
+        ],
+        "target": [
+            "book",
+            "book"
+        ],
+        "label": "I-ARG1"
+    },
+    {
+        "capability": "passive_voice",
+        "test_type": "MFT",
+        "test_case": [
+            "The book was reported by the writer.",
+            "The writer reported the book."
+        ],
+        "target": [
+            "book",
+            "book"
+        ],
+        "label": "I-ARG1"
+    },
+    {
+        "capability": "passive_voice",
+        "test_type": "MFT",
+        "test_case": [
+            "The book was reported by the author.",
+            "The author reported the book."
+        ],
+        "target": [
+            "book",
+            "book"
+        ],
+        "label": "I-ARG1"
+    },
+    {
+        "capability": "passive_voice",
+        "test_type": "MFT",
+        "test_case": [
+            "The book was reported by the novelist.",
+            "The novelist reported the book."
+        ],
+        "target": [
+            "book",
+            "book"
+        ],
+        "label": "I-ARG1"
+    },
+    {
+        "capability": "passive_voice",
+        "test_type": "MFT",
+        "test_case": [
+            "The book was reported by the creator.",
+            "The creator reported the book."
+        ],
+        "target": [
+            "book",
+            "book"
+        ],
+        "label": "I-ARG1"
+    },
+    {
+        "capability": "passive_voice",
+        "test_type": "MFT",
+        "test_case": [
+            "The book was printed by the writer.",
+            "The writer printed the book."
+        ],
+        "target": [
+            "book",
+            "book"
+        ],
+        "label": "I-ARG1"
+    },
+    {
+        "capability": "passive_voice",
+        "test_type": "MFT",
+        "test_case": [
+            "The book was printed by the author.",
+            "The author printed the book."
+        ],
+        "target": [
+            "book",
+            "book"
+        ],
+        "label": "I-ARG1"
+    },
+    {
+        "capability": "passive_voice",
+        "test_type": "MFT",
+        "test_case": [
+            "The book was printed by the novelist.",
+            "The novelist printed the book."
+        ],
+        "target": [
+            "book",
+            "book"
+        ],
+        "label": "I-ARG1"
+    },
+    {
+        "capability": "passive_voice",
+        "test_type": "MFT",
+        "test_case": [
+            "The book was printed by the creator.",
+            "The creator printed the book."
+        ],
+        "target": [
+            "book",
+            "book"
+        ],
+        "label": "I-ARG1"
+    },
+    {
+        "capability": "passive_voice",
+        "test_type": "MFT",
+        "test_case": [
+            "The manual was made by the writer.",
+            "The writer made the manual."
+        ],
+        "target": [
+            "manual",
+            "manual"
+        ],
+        "label": "I-ARG1"
+    },
+    {
+        "capability": "passive_voice",
+        "test_type": "MFT",
+        "test_case": [
+            "The manual was made by the author.",
+            "The author made the manual."
+        ],
+        "target": [
+            "manual",
+            "manual"
+        ],
+        "label": "I-ARG1"
+    },
+    {
+        "capability": "passive_voice",
+        "test_type": "MFT",
+        "test_case": [
+            "The manual was made by the novelist.",
+            "The novelist made the manual."
+        ],
+        "target": [
+            "manual",
+            "manual"
+        ],
+        "label": "I-ARG1"
+    },
+    {
+        "capability": "passive_voice",
+        "test_type": "MFT",
+        "test_case": [
+            "The manual was made by the creator.",
+            "The creator made the manual."
+        ],
+        "target": [
+            "manual",
+            "manual"
+        ],
+        "label": "I-ARG1"
+    },
+    {
+        "capability": "passive_voice",
+        "test_type": "MFT",
+        "test_case": [
+            "The manual was created by the writer.",
+            "The writer created the manual."
+        ],
+        "target": [
+            "manual",
+            "manual"
+        ],
+        "label": "I-ARG1"
+    },
+    {
+        "capability": "passive_voice",
+        "test_type": "MFT",
+        "test_case": [
+            "The manual was created by the author.",
+            "The author created the manual."
+        ],
+        "target": [
+            "manual",
+            "manual"
+        ],
+        "label": "I-ARG1"
+    },
+    {
+        "capability": "passive_voice",
+        "test_type": "MFT",
+        "test_case": [
+            "The manual was created by the novelist.",
+            "The novelist created the manual."
+        ],
+        "target": [
+            "manual",
+            "manual"
+        ],
+        "label": "I-ARG1"
+    },
+    {
+        "capability": "passive_voice",
+        "test_type": "MFT",
+        "test_case": [
+            "The manual was created by the creator.",
+            "The creator created the manual."
+        ],
+        "target": [
+            "manual",
+            "manual"
+        ],
+        "label": "I-ARG1"
+    },
+    {
+        "capability": "passive_voice",
+        "test_type": "MFT",
+        "test_case": [
+            "The manual was written by the writer.",
+            "The writer wrote the manual."
+        ],
+        "target": [
+            "manual",
+            "manual"
+        ],
+        "label": "I-ARG1"
+    },
+    {
+        "capability": "passive_voice",
+        "test_type": "MFT",
+        "test_case": [
+            "The manual was written by the author.",
+            "The author wrote the manual."
+        ],
+        "target": [
+            "manual",
+            "manual"
+        ],
+        "label": "I-ARG1"
+    },
+    {
+        "capability": "passive_voice",
+        "test_type": "MFT",
+        "test_case": [
+            "The manual was written by the novelist.",
+            "The novelist wrote the manual."
+        ],
+        "target": [
+            "manual",
+            "manual"
+        ],
+        "label": "I-ARG1"
+    },
+    {
+        "capability": "passive_voice",
+        "test_type": "MFT",
+        "test_case": [
+            "The manual was written by the creator.",
+            "The creator wrote the manual."
+        ],
+        "target": [
+            "manual",
+            "manual"
+        ],
+        "label": "I-ARG1"
+    },
+    {
+        "capability": "passive_voice",
+        "test_type": "MFT",
+        "test_case": [
+            "The manual was drafted by the writer.",
+            "The writer drafted the manual."
+        ],
+        "target": [
+            "manual",
+            "manual"
+        ],
+        "label": "I-ARG1"
+    },
+    {
+        "capability": "passive_voice",
+        "test_type": "MFT",
+        "test_case": [
+            "The manual was drafted by the author.",
+            "The author drafted the manual."
+        ],
+        "target": [
+            "manual",
+            "manual"
+        ],
+        "label": "I-ARG1"
+    },
+    {
+        "capability": "passive_voice",
+        "test_type": "MFT",
+        "test_case": [
+            "The manual was drafted by the novelist.",
+            "The novelist drafted the manual."
+        ],
+        "target": [
+            "manual",
+            "manual"
+        ],
+        "label": "I-ARG1"
+    },
+    {
+        "capability": "passive_voice",
+        "test_type": "MFT",
+        "test_case": [
+            "The manual was drafted by the creator.",
+            "The creator drafted the manual."
+        ],
+        "target": [
+            "manual",
+            "manual"
+        ],
+        "label": "I-ARG1"
+    },
+    {
+        "capability": "passive_voice",
+        "test_type": "MFT",
+        "test_case": [
+            "The manual was reported by the writer.",
+            "The writer reported the manual."
+        ],
+        "target": [
+            "manual",
+            "manual"
+        ],
+        "label": "I-ARG1"
+    },
+    {
+        "capability": "passive_voice",
+        "test_type": "MFT",
+        "test_case": [
+            "The manual was reported by the author.",
+            "The author reported the manual."
+        ],
+        "target": [
+            "manual",
+            "manual"
+        ],
+        "label": "I-ARG1"
+    },
+    {
+        "capability": "passive_voice",
+        "test_type": "MFT",
+        "test_case": [
+            "The manual was reported by the novelist.",
+            "The novelist reported the manual."
+        ],
+        "target": [
+            "manual",
+            "manual"
+        ],
+        "label": "I-ARG1"
+    },
+    {
+        "capability": "passive_voice",
+        "test_type": "MFT",
+        "test_case": [
+            "The manual was reported by the creator.",
+            "The creator reported the manual."
+        ],
+        "target": [
+            "manual",
+            "manual"
+        ],
+        "label": "I-ARG1"
+    },
+    {
+        "capability": "passive_voice",
+        "test_type": "MFT",
+        "test_case": [
+            "The manual was printed by the writer.",
+            "The writer printed the manual."
+        ],
+        "target": [
+            "manual",
+            "manual"
+        ],
+        "label": "I-ARG1"
+    },
+    {
+        "capability": "passive_voice",
+        "test_type": "MFT",
+        "test_case": [
+            "The manual was printed by the author.",
+            "The author printed the manual."
+        ],
+        "target": [
+            "manual",
+            "manual"
+        ],
+        "label": "I-ARG1"
+    },
+    {
+        "capability": "passive_voice",
+        "test_type": "MFT",
+        "test_case": [
+            "The manual was printed by the novelist.",
+            "The novelist printed the manual."
+        ],
+        "target": [
+            "manual",
+            "manual"
+        ],
+        "label": "I-ARG1"
+    },
+    {
+        "capability": "passive_voice",
+        "test_type": "MFT",
+        "test_case": [
+            "The manual was printed by the creator.",
+            "The creator printed the manual."
+        ],
+        "target": [
+            "manual",
+            "manual"
+        ],
+        "label": "I-ARG1"
+    },
+    {
+        "capability": "passive_voice",
+        "test_type": "MFT",
+        "test_case": [
+            "The guide was made by the writer.",
+            "The writer made the guide."
+        ],
+        "target": [
+            "guide",
+            "guide"
+        ],
+        "label": "I-ARG1"
+    },
+    {
+        "capability": "passive_voice",
+        "test_type": "MFT",
+        "test_case": [
+            "The guide was made by the author.",
+            "The author made the guide."
+        ],
+        "target": [
+            "guide",
+            "guide"
+        ],
+        "label": "I-ARG1"
+    },
+    {
+        "capability": "passive_voice",
+        "test_type": "MFT",
+        "test_case": [
+            "The guide was made by the novelist.",
+            "The novelist made the guide."
+        ],
+        "target": [
+            "guide",
+            "guide"
+        ],
+        "label": "I-ARG1"
+    },
+    {
+        "capability": "passive_voice",
+        "test_type": "MFT",
+        "test_case": [
+            "The guide was made by the creator.",
+            "The creator made the guide."
+        ],
+        "target": [
+            "guide",
+            "guide"
+        ],
+        "label": "I-ARG1"
+    },
+    {
+        "capability": "passive_voice",
+        "test_type": "MFT",
+        "test_case": [
+            "The guide was created by the writer.",
+            "The writer created the guide."
+        ],
+        "target": [
+            "guide",
+            "guide"
+        ],
+        "label": "I-ARG1"
+    },
+    {
+        "capability": "passive_voice",
+        "test_type": "MFT",
+        "test_case": [
+            "The guide was created by the author.",
+            "The author created the guide."
+        ],
+        "target": [
+            "guide",
+            "guide"
+        ],
+        "label": "I-ARG1"
+    },
+    {
+        "capability": "passive_voice",
+        "test_type": "MFT",
+        "test_case": [
+            "The guide was created by the novelist.",
+            "The novelist created the guide."
+        ],
+        "target": [
+            "guide",
+            "guide"
+        ],
+        "label": "I-ARG1"
+    },
+    {
+        "capability": "passive_voice",
+        "test_type": "MFT",
+        "test_case": [
+            "The guide was created by the creator.",
+            "The creator created the guide."
+        ],
+        "target": [
+            "guide",
+            "guide"
+        ],
+        "label": "I-ARG1"
+    },
+    {
+        "capability": "passive_voice",
+        "test_type": "MFT",
+        "test_case": [
+            "The guide was written by the writer.",
+            "The writer wrote the guide."
+        ],
+        "target": [
+            "guide",
+            "guide"
+        ],
+        "label": "I-ARG1"
+    },
+    {
+        "capability": "passive_voice",
+        "test_type": "MFT",
+        "test_case": [
+            "The guide was written by the author.",
+            "The author wrote the guide."
+        ],
+        "target": [
+            "guide",
+            "guide"
+        ],
+        "label": "I-ARG1"
+    },
+    {
+        "capability": "passive_voice",
+        "test_type": "MFT",
+        "test_case": [
+            "The guide was written by the novelist.",
+            "The novelist wrote the guide."
+        ],
+        "target": [
+            "guide",
+            "guide"
+        ],
+        "label": "I-ARG1"
+    },
+    {
+        "capability": "passive_voice",
+        "test_type": "MFT",
+        "test_case": [
+            "The guide was written by the creator.",
+            "The creator wrote the guide."
+        ],
+        "target": [
+            "guide",
+            "guide"
+        ],
+        "label": "I-ARG1"
+    },
+    {
+        "capability": "passive_voice",
+        "test_type": "MFT",
+        "test_case": [
+            "The guide was drafted by the writer.",
+            "The writer drafted the guide."
+        ],
+        "target": [
+            "guide",
+            "guide"
+        ],
+        "label": "I-ARG1"
+    },
+    {
+        "capability": "passive_voice",
+        "test_type": "MFT",
+        "test_case": [
+            "The guide was drafted by the author.",
+            "The author drafted the guide."
+        ],
+        "target": [
+            "guide",
+            "guide"
+        ],
+        "label": "I-ARG1"
+    },
+    {
+        "capability": "passive_voice",
+        "test_type": "MFT",
+        "test_case": [
+            "The guide was drafted by the novelist.",
+            "The novelist drafted the guide."
+        ],
+        "target": [
+            "guide",
+            "guide"
+        ],
+        "label": "I-ARG1"
+    },
+    {
+        "capability": "passive_voice",
+        "test_type": "MFT",
+        "test_case": [
+            "The guide was drafted by the creator.",
+            "The creator drafted the guide."
+        ],
+        "target": [
+            "guide",
+            "guide"
+        ],
+        "label": "I-ARG1"
+    },
+    {
+        "capability": "passive_voice",
+        "test_type": "MFT",
+        "test_case": [
+            "The guide was reported by the writer.",
+            "The writer reported the guide."
+        ],
+        "target": [
+            "guide",
+            "guide"
+        ],
+        "label": "I-ARG1"
+    },
+    {
+        "capability": "passive_voice",
+        "test_type": "MFT",
+        "test_case": [
+            "The guide was reported by the author.",
+            "The author reported the guide."
+        ],
+        "target": [
+            "guide",
+            "guide"
+        ],
+        "label": "I-ARG1"
+    },
+    {
+        "capability": "passive_voice",
+        "test_type": "MFT",
+        "test_case": [
+            "The guide was reported by the novelist.",
+            "The novelist reported the guide."
+        ],
+        "target": [
+            "guide",
+            "guide"
+        ],
+        "label": "I-ARG1"
+    },
+    {
+        "capability": "passive_voice",
+        "test_type": "MFT",
+        "test_case": [
+            "The guide was reported by the creator.",
+            "The creator reported the guide."
+        ],
+        "target": [
+            "guide",
+            "guide"
+        ],
+        "label": "I-ARG1"
+    },
+    {
+        "capability": "passive_voice",
+        "test_type": "MFT",
+        "test_case": [
+            "The guide was printed by the writer.",
+            "The writer printed the guide."
+        ],
+        "target": [
+            "guide",
+            "guide"
+        ],
+        "label": "I-ARG1"
+    },
+    {
+        "capability": "passive_voice",
+        "test_type": "MFT",
+        "test_case": [
+            "The guide was printed by the author.",
+            "The author printed the guide."
+        ],
+        "target": [
+            "guide",
+            "guide"
+        ],
+        "label": "I-ARG1"
+    },
+    {
+        "capability": "passive_voice",
+        "test_type": "MFT",
+        "test_case": [
+            "The guide was printed by the novelist.",
+            "The novelist printed the guide."
+        ],
+        "target": [
+            "guide",
+            "guide"
+        ],
+        "label": "I-ARG1"
+    },
+    {
+        "capability": "passive_voice",
+        "test_type": "MFT",
+        "test_case": [
+            "The guide was printed by the creator.",
+            "The creator printed the guide."
+        ],
+        "target": [
+            "guide",
+            "guide"
+        ],
+        "label": "I-ARG1"
+    },
+    {
+        "capability": "passive_voice",
+        "test_type": "MFT",
+        "test_case": [
+            "The novel was made by the writer.",
+            "The writer made the novel."
+        ],
+        "target": [
+            "novel",
+            "novel"
+        ],
+        "label": "I-ARG1"
+    },
+    {
+        "capability": "passive_voice",
+        "test_type": "MFT",
+        "test_case": [
+            "The novel was made by the author.",
+            "The author made the novel."
+        ],
+        "target": [
+            "novel",
+            "novel"
+        ],
+        "label": "I-ARG1"
+    },
+    {
+        "capability": "passive_voice",
+        "test_type": "MFT",
+        "test_case": [
+            "The novel was made by the novelist.",
+            "The novelist made the novel."
+        ],
+        "target": [
+            "novel",
+            "novel"
+        ],
+        "label": "I-ARG1"
+    },
+    {
+        "capability": "passive_voice",
+        "test_type": "MFT",
+        "test_case": [
+            "The novel was made by the creator.",
+            "The creator made the novel."
+        ],
+        "target": [
+            "novel",
+            "novel"
+        ],
+        "label": "I-ARG1"
+    },
+    {
+        "capability": "passive_voice",
+        "test_type": "MFT",
+        "test_case": [
+            "The novel was created by the writer.",
+            "The writer created the novel."
+        ],
+        "target": [
+            "novel",
+            "novel"
+        ],
+        "label": "I-ARG1"
+    },
+    {
+        "capability": "passive_voice",
+        "test_type": "MFT",
+        "test_case": [
+            "The novel was created by the author.",
+            "The author created the novel."
+        ],
+        "target": [
+            "novel",
+            "novel"
+        ],
+        "label": "I-ARG1"
+    },
+    {
+        "capability": "passive_voice",
+        "test_type": "MFT",
+        "test_case": [
+            "The novel was created by the novelist.",
+            "The novelist created the novel."
+        ],
+        "target": [
+            "novel",
+            "novel"
+        ],
+        "label": "I-ARG1"
+    },
+    {
+        "capability": "passive_voice",
+        "test_type": "MFT",
+        "test_case": [
+            "The novel was created by the creator.",
+            "The creator created the novel."
+        ],
+        "target": [
+            "novel",
+            "novel"
+        ],
+        "label": "I-ARG1"
+    },
+    {
+        "capability": "passive_voice",
+        "test_type": "MFT",
+        "test_case": [
+            "The novel was written by the writer.",
+            "The writer wrote the novel."
+        ],
+        "target": [
+            "novel",
+            "novel"
+        ],
+        "label": "I-ARG1"
+    },
+    {
+        "capability": "passive_voice",
+        "test_type": "MFT",
+        "test_case": [
+            "The novel was written by the author.",
+            "The author wrote the novel."
+        ],
+        "target": [
+            "novel",
+            "novel"
+        ],
+        "label": "I-ARG1"
+    },
+    {
+        "capability": "passive_voice",
+        "test_type": "MFT",
+        "test_case": [
+            "The novel was written by the novelist.",
+            "The novelist wrote the novel."
+        ],
+        "target": [
+            "novel",
+            "novel"
+        ],
+        "label": "I-ARG1"
+    },
+    {
+        "capability": "passive_voice",
+        "test_type": "MFT",
+        "test_case": [
+            "The novel was written by the creator.",
+            "The creator wrote the novel."
+        ],
+        "target": [
+            "novel",
+            "novel"
+        ],
+        "label": "I-ARG1"
+    },
+    {
+        "capability": "passive_voice",
+        "test_type": "MFT",
+        "test_case": [
+            "The novel was drafted by the writer.",
+            "The writer drafted the novel."
+        ],
+        "target": [
+            "novel",
+            "novel"
+        ],
+        "label": "I-ARG1"
+    },
+    {
+        "capability": "passive_voice",
+        "test_type": "MFT",
+        "test_case": [
+            "The novel was drafted by the author.",
+            "The author drafted the novel."
+        ],
+        "target": [
+            "novel",
+            "novel"
+        ],
+        "label": "I-ARG1"
+    },
+    {
+        "capability": "passive_voice",
+        "test_type": "MFT",
+        "test_case": [
+            "The novel was drafted by the novelist.",
+            "The novelist drafted the novel."
+        ],
+        "target": [
+            "novel",
+            "novel"
+        ],
+        "label": "I-ARG1"
+    },
+    {
+        "capability": "passive_voice",
+        "test_type": "MFT",
+        "test_case": [
+            "The novel was drafted by the creator.",
+            "The creator drafted the novel."
+        ],
+        "target": [
+            "novel",
+            "novel"
+        ],
+        "label": "I-ARG1"
+    },
+    {
+        "capability": "passive_voice",
+        "test_type": "MFT",
+        "test_case": [
+            "The novel was reported by the writer.",
+            "The writer reported the novel."
+        ],
+        "target": [
+            "novel",
+            "novel"
+        ],
+        "label": "I-ARG1"
+    },
+    {
+        "capability": "passive_voice",
+        "test_type": "MFT",
+        "test_case": [
+            "The novel was reported by the author.",
+            "The author reported the novel."
+        ],
+        "target": [
+            "novel",
+            "novel"
+        ],
+        "label": "I-ARG1"
+    },
+    {
+        "capability": "passive_voice",
+        "test_type": "MFT",
+        "test_case": [
+            "The novel was reported by the novelist.",
+            "The novelist reported the novel."
+        ],
+        "target": [
+            "novel",
+            "novel"
+        ],
+        "label": "I-ARG1"
+    },
+    {
+        "capability": "passive_voice",
+        "test_type": "MFT",
+        "test_case": [
+            "The novel was reported by the creator.",
+            "The creator reported the novel."
+        ],
+        "target": [
+            "novel",
+            "novel"
+        ],
+        "label": "I-ARG1"
+    },
+    {
+        "capability": "passive_voice",
+        "test_type": "MFT",
+        "test_case": [
+            "The novel was printed by the writer.",
+            "The writer printed the novel."
+        ],
+        "target": [
+            "novel",
+            "novel"
+        ],
+        "label": "I-ARG1"
+    },
+    {
+        "capability": "passive_voice",
+        "test_type": "MFT",
+        "test_case": [
+            "The novel was printed by the author.",
+            "The author printed the novel."
+        ],
+        "target": [
+            "novel",
+            "novel"
+        ],
+        "label": "I-ARG1"
+    },
+    {
+        "capability": "passive_voice",
+        "test_type": "MFT",
+        "test_case": [
+            "The novel was printed by the novelist.",
+            "The novelist printed the novel."
+        ],
+        "target": [
+            "novel",
+            "novel"
+        ],
+        "label": "I-ARG1"
+    },
+    {
+        "capability": "passive_voice",
+        "test_type": "MFT",
+        "test_case": [
+            "The novel was printed by the creator.",
+            "The creator printed the novel."
+        ],
+        "target": [
+            "novel",
+            "novel"
+        ],
+        "label": "I-ARG1"
+    },
+    {
+        "capability": "passive_voice",
+        "test_type": "MFT",
+        "test_case": [
+            "The diary was made by the writer.",
+            "The writer made the diary."
+        ],
+        "target": [
+            "diary",
+            "diary"
+        ],
+        "label": "I-ARG1"
+    },
+    {
+        "capability": "passive_voice",
+        "test_type": "MFT",
+        "test_case": [
+            "The diary was made by the author.",
+            "The author made the diary."
+        ],
+        "target": [
+            "diary",
+            "diary"
+        ],
+        "label": "I-ARG1"
+    },
+    {
+        "capability": "passive_voice",
+        "test_type": "MFT",
+        "test_case": [
+            "The diary was made by the novelist.",
+            "The novelist made the diary."
+        ],
+        "target": [
+            "diary",
+            "diary"
+        ],
+        "label": "I-ARG1"
+    },
+    {
+        "capability": "passive_voice",
+        "test_type": "MFT",
+        "test_case": [
+            "The diary was made by the creator.",
+            "The creator made the diary."
+        ],
+        "target": [
+            "diary",
+            "diary"
+        ],
+        "label": "I-ARG1"
+    },
+    {
+        "capability": "passive_voice",
+        "test_type": "MFT",
+        "test_case": [
+            "The diary was created by the writer.",
+            "The writer created the diary."
+        ],
+        "target": [
+            "diary",
+            "diary"
+        ],
+        "label": "I-ARG1"
+    },
+    {
+        "capability": "passive_voice",
+        "test_type": "MFT",
+        "test_case": [
+            "The diary was created by the author.",
+            "The author created the diary."
+        ],
+        "target": [
+            "diary",
+            "diary"
+        ],
+        "label": "I-ARG1"
+    },
+    {
+        "capability": "passive_voice",
+        "test_type": "MFT",
+        "test_case": [
+            "The diary was created by the novelist.",
+            "The novelist created the diary."
+        ],
+        "target": [
+            "diary",
+            "diary"
+        ],
+        "label": "I-ARG1"
+    },
+    {
+        "capability": "passive_voice",
+        "test_type": "MFT",
+        "test_case": [
+            "The diary was created by the creator.",
+            "The creator created the diary."
+        ],
+        "target": [
+            "diary",
+            "diary"
+        ],
+        "label": "I-ARG1"
+    },
+    {
+        "capability": "passive_voice",
+        "test_type": "MFT",
+        "test_case": [
+            "The diary was written by the writer.",
+            "The writer wrote the diary."
+        ],
+        "target": [
+            "diary",
+            "diary"
+        ],
+        "label": "I-ARG1"
+    },
+    {
+        "capability": "passive_voice",
+        "test_type": "MFT",
+        "test_case": [
+            "The diary was written by the author.",
+            "The author wrote the diary."
+        ],
+        "target": [
+            "diary",
+            "diary"
+        ],
+        "label": "I-ARG1"
+    },
+    {
+        "capability": "passive_voice",
+        "test_type": "MFT",
+        "test_case": [
+            "The diary was written by the novelist.",
+            "The novelist wrote the diary."
+        ],
+        "target": [
+            "diary",
+            "diary"
+        ],
+        "label": "I-ARG1"
+    },
+    {
+        "capability": "passive_voice",
+        "test_type": "MFT",
+        "test_case": [
+            "The diary was written by the creator.",
+            "The creator wrote the diary."
+        ],
+        "target": [
+            "diary",
+            "diary"
+        ],
+        "label": "I-ARG1"
+    },
+    {
+        "capability": "passive_voice",
+        "test_type": "MFT",
+        "test_case": [
+            "The diary was drafted by the writer.",
+            "The writer drafted the diary."
+        ],
+        "target": [
+            "diary",
+            "diary"
+        ],
+        "label": "I-ARG1"
+    },
+    {
+        "capability": "passive_voice",
+        "test_type": "MFT",
+        "test_case": [
+            "The diary was drafted by the author.",
+            "The author drafted the diary."
+        ],
+        "target": [
+            "diary",
+            "diary"
+        ],
+        "label": "I-ARG1"
+    },
+    {
+        "capability": "passive_voice",
+        "test_type": "MFT",
+        "test_case": [
+            "The diary was drafted by the novelist.",
+            "The novelist drafted the diary."
+        ],
+        "target": [
+            "diary",
+            "diary"
+        ],
+        "label": "I-ARG1"
+    },
+    {
+        "capability": "passive_voice",
+        "test_type": "MFT",
+        "test_case": [
+            "The diary was drafted by the creator.",
+            "The creator drafted the diary."
+        ],
+        "target": [
+            "diary",
+            "diary"
+        ],
+        "label": "I-ARG1"
+    },
+    {
+        "capability": "passive_voice",
+        "test_type": "MFT",
+        "test_case": [
+            "The diary was reported by the writer.",
+            "The writer reported the diary."
+        ],
+        "target": [
+            "diary",
+            "diary"
+        ],
+        "label": "I-ARG1"
+    },
+    {
+        "capability": "passive_voice",
+        "test_type": "MFT",
+        "test_case": [
+            "The diary was reported by the author.",
+            "The author reported the diary."
+        ],
+        "target": [
+            "diary",
+            "diary"
+        ],
+        "label": "I-ARG1"
+    },
+    {
+        "capability": "passive_voice",
+        "test_type": "MFT",
+        "test_case": [
+            "The diary was reported by the novelist.",
+            "The novelist reported the diary."
+        ],
+        "target": [
+            "diary",
+            "diary"
+        ],
+        "label": "I-ARG1"
+    },
+    {
+        "capability": "passive_voice",
+        "test_type": "MFT",
+        "test_case": [
+            "The diary was reported by the creator.",
+            "The creator reported the diary."
+        ],
+        "target": [
+            "diary",
+            "diary"
+        ],
+        "label": "I-ARG1"
+    },
+    {
+        "capability": "passive_voice",
+        "test_type": "MFT",
+        "test_case": [
+            "The diary was printed by the writer.",
+            "The writer printed the diary."
+        ],
+        "target": [
+            "diary",
+            "diary"
+        ],
+        "label": "I-ARG1"
+    },
+    {
+        "capability": "passive_voice",
+        "test_type": "MFT",
+        "test_case": [
+            "The diary was printed by the author.",
+            "The author printed the diary."
+        ],
+        "target": [
+            "diary",
+            "diary"
+        ],
+        "label": "I-ARG1"
+    },
+    {
+        "capability": "passive_voice",
+        "test_type": "MFT",
+        "test_case": [
+            "The diary was printed by the novelist.",
+            "The novelist printed the diary."
+        ],
+        "target": [
+            "diary",
+            "diary"
+        ],
+        "label": "I-ARG1"
+    },
+    {
+        "capability": "passive_voice",
+        "test_type": "MFT",
+        "test_case": [
+            "The diary was printed by the creator.",
+            "The creator printed the diary."
+        ],
+        "target": [
+            "diary",
+            "diary"
+        ],
+        "label": "I-ARG1"
+    },
+    {
+        "capability": "passive_voice",
+        "test_type": "MFT",
+        "test_case": [
+            "The story was made by the writer.",
+            "The writer made the story."
+        ],
+        "target": [
+            "story",
+            "story"
+        ],
+        "label": "I-ARG1"
+    },
+    {
+        "capability": "passive_voice",
+        "test_type": "MFT",
+        "test_case": [
+            "The story was made by the author.",
+            "The author made the story."
+        ],
+        "target": [
+            "story",
+            "story"
+        ],
+        "label": "I-ARG1"
+    },
+    {
+        "capability": "passive_voice",
+        "test_type": "MFT",
+        "test_case": [
+            "The story was made by the novelist.",
+            "The novelist made the story."
+        ],
+        "target": [
+            "story",
+            "story"
+        ],
+        "label": "I-ARG1"
+    },
+    {
+        "capability": "passive_voice",
+        "test_type": "MFT",
+        "test_case": [
+            "The story was made by the creator.",
+            "The creator made the story."
+        ],
+        "target": [
+            "story",
+            "story"
+        ],
+        "label": "I-ARG1"
+    },
+    {
+        "capability": "passive_voice",
+        "test_type": "MFT",
+        "test_case": [
+            "The story was created by the writer.",
+            "The writer created the story."
+        ],
+        "target": [
+            "story",
+            "story"
+        ],
+        "label": "I-ARG1"
+    },
+    {
+        "capability": "passive_voice",
+        "test_type": "MFT",
+        "test_case": [
+            "The story was created by the author.",
+            "The author created the story."
+        ],
+        "target": [
+            "story",
+            "story"
+        ],
+        "label": "I-ARG1"
+    },
+    {
+        "capability": "passive_voice",
+        "test_type": "MFT",
+        "test_case": [
+            "The story was created by the novelist.",
+            "The novelist created the story."
+        ],
+        "target": [
+            "story",
+            "story"
+        ],
+        "label": "I-ARG1"
+    },
+    {
+        "capability": "passive_voice",
+        "test_type": "MFT",
+        "test_case": [
+            "The story was created by the creator.",
+            "The creator created the story."
+        ],
+        "target": [
+            "story",
+            "story"
+        ],
+        "label": "I-ARG1"
+    },
+    {
+        "capability": "passive_voice",
+        "test_type": "MFT",
+        "test_case": [
+            "The story was written by the writer.",
+            "The writer wrote the story."
+        ],
+        "target": [
+            "story",
+            "story"
+        ],
+        "label": "I-ARG1"
+    },
+    {
+        "capability": "passive_voice",
+        "test_type": "MFT",
+        "test_case": [
+            "The story was written by the author.",
+            "The author wrote the story."
+        ],
+        "target": [
+            "story",
+            "story"
+        ],
+        "label": "I-ARG1"
+    },
+    {
+        "capability": "passive_voice",
+        "test_type": "MFT",
+        "test_case": [
+            "The story was written by the novelist.",
+            "The novelist wrote the story."
+        ],
+        "target": [
+            "story",
+            "story"
+        ],
+        "label": "I-ARG1"
+    },
+    {
+        "capability": "passive_voice",
+        "test_type": "MFT",
+        "test_case": [
+            "The story was written by the creator.",
+            "The creator wrote the story."
+        ],
+        "target": [
+            "story",
+            "story"
+        ],
+        "label": "I-ARG1"
+    },
+    {
+        "capability": "passive_voice",
+        "test_type": "MFT",
+        "test_case": [
+            "The story was drafted by the writer.",
+            "The writer drafted the story."
+        ],
+        "target": [
+            "story",
+            "story"
+        ],
+        "label": "I-ARG1"
+    },
+    {
+        "capability": "passive_voice",
+        "test_type": "MFT",
+        "test_case": [
+            "The story was drafted by the author.",
+            "The author drafted the story."
+        ],
+        "target": [
+            "story",
+            "story"
+        ],
+        "label": "I-ARG1"
+    },
+    {
+        "capability": "passive_voice",
+        "test_type": "MFT",
+        "test_case": [
+            "The story was drafted by the novelist.",
+            "The novelist drafted the story."
+        ],
+        "target": [
+            "story",
+            "story"
+        ],
+        "label": "I-ARG1"
+    },
+    {
+        "capability": "passive_voice",
+        "test_type": "MFT",
+        "test_case": [
+            "The story was drafted by the creator.",
+            "The creator drafted the story."
+        ],
+        "target": [
+            "story",
+            "story"
+        ],
+        "label": "I-ARG1"
+    },
+    {
+        "capability": "passive_voice",
+        "test_type": "MFT",
+        "test_case": [
+            "The story was reported by the writer.",
+            "The writer reported the story."
+        ],
+        "target": [
+            "story",
+            "story"
+        ],
+        "label": "I-ARG1"
+    },
+    {
+        "capability": "passive_voice",
+        "test_type": "MFT",
+        "test_case": [
+            "The story was reported by the author.",
+            "The author reported the story."
+        ],
+        "target": [
+            "story",
+            "story"
+        ],
+        "label": "I-ARG1"
+    },
+    {
+        "capability": "passive_voice",
+        "test_type": "MFT",
+        "test_case": [
+            "The story was reported by the novelist.",
+            "The novelist reported the story."
+        ],
+        "target": [
+            "story",
+            "story"
+        ],
+        "label": "I-ARG1"
+    },
+    {
+        "capability": "passive_voice",
+        "test_type": "MFT",
+        "test_case": [
+            "The story was reported by the creator.",
+            "The creator reported the story."
+        ],
+        "target": [
+            "story",
+            "story"
+        ],
+        "label": "I-ARG1"
+    },
+    {
+        "capability": "passive_voice",
+        "test_type": "MFT",
+        "test_case": [
+            "The story was printed by the writer.",
+            "The writer printed the story."
+        ],
+        "target": [
+            "story",
+            "story"
+        ],
+        "label": "I-ARG1"
+    },
+    {
+        "capability": "passive_voice",
+        "test_type": "MFT",
+        "test_case": [
+            "The story was printed by the author.",
+            "The author printed the story."
+        ],
+        "target": [
+            "story",
+            "story"
+        ],
+        "label": "I-ARG1"
+    },
+    {
+        "capability": "passive_voice",
+        "test_type": "MFT",
+        "test_case": [
+            "The story was printed by the novelist.",
+            "The novelist printed the story."
+        ],
+        "target": [
+            "story",
+            "story"
+        ],
+        "label": "I-ARG1"
+    },
+    {
+        "capability": "passive_voice",
+        "test_type": "MFT",
+        "test_case": [
+            "The story was printed by the creator.",
+            "The creator printed the story."
+        ],
+        "target": [
+            "story",
+            "story"
+        ],
+        "label": "I-ARG1"
+    }
+]

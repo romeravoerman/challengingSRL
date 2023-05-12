@@ -1,0 +1,1122 @@
+[
+    {
+        "capability": "subj-obj-switching",
+        "test_type": "INV",
+        "test_case": [
+            "Pete loves Ann.",
+            "Ann loves Pete."
+        ],
+        "label": [
+            "B-ARG0",
+            "B-V",
+            "B-ARG1",
+            "O"
+        ]
+    },
+    {
+        "capability": "subj-obj-switching",
+        "test_type": "INV",
+        "test_case": [
+            "Frank loves Ann.",
+            "Ann loves Frank."
+        ],
+        "label": [
+            "B-ARG0",
+            "B-V",
+            "B-ARG1",
+            "O"
+        ]
+    },
+    {
+        "capability": "subj-obj-switching",
+        "test_type": "INV",
+        "test_case": [
+            "Marie loves Ann.",
+            "Ann loves Marie."
+        ],
+        "label": [
+            "B-ARG0",
+            "B-V",
+            "B-ARG1",
+            "O"
+        ]
+    },
+    {
+        "capability": "subj-obj-switching",
+        "test_type": "INV",
+        "test_case": [
+            "Elise loves Ann.",
+            "Ann loves Elise."
+        ],
+        "label": [
+            "B-ARG0",
+            "B-V",
+            "B-ARG1",
+            "O"
+        ]
+    },
+    {
+        "capability": "subj-obj-switching",
+        "test_type": "INV",
+        "test_case": [
+            "Pete likes Ann.",
+            "Ann likes Pete."
+        ],
+        "label": [
+            "B-ARG0",
+            "B-V",
+            "B-ARG1",
+            "O"
+        ]
+    },
+    {
+        "capability": "subj-obj-switching",
+        "test_type": "INV",
+        "test_case": [
+            "Frank likes Ann.",
+            "Ann likes Frank."
+        ],
+        "label": [
+            "B-ARG0",
+            "B-V",
+            "B-ARG1",
+            "O"
+        ]
+    },
+    {
+        "capability": "subj-obj-switching",
+        "test_type": "INV",
+        "test_case": [
+            "Marie likes Ann.",
+            "Ann likes Marie."
+        ],
+        "label": [
+            "B-ARG0",
+            "B-V",
+            "B-ARG1",
+            "O"
+        ]
+    },
+    {
+        "capability": "subj-obj-switching",
+        "test_type": "INV",
+        "test_case": [
+            "Elise likes Ann.",
+            "Ann likes Elise."
+        ],
+        "label": [
+            "B-ARG0",
+            "B-V",
+            "B-ARG1",
+            "O"
+        ]
+    },
+    {
+        "capability": "subj-obj-switching",
+        "test_type": "INV",
+        "test_case": [
+            "Pete hates Ann.",
+            "Ann hates Pete."
+        ],
+        "label": [
+            "B-ARG0",
+            "B-V",
+            "B-ARG1",
+            "O"
+        ]
+    },
+    {
+        "capability": "subj-obj-switching",
+        "test_type": "INV",
+        "test_case": [
+            "Frank hates Ann.",
+            "Ann hates Frank."
+        ],
+        "label": [
+            "B-ARG0",
+            "B-V",
+            "B-ARG1",
+            "O"
+        ]
+    },
+    {
+        "capability": "subj-obj-switching",
+        "test_type": "INV",
+        "test_case": [
+            "Marie hates Ann.",
+            "Ann hates Marie."
+        ],
+        "label": [
+            "B-ARG0",
+            "B-V",
+            "B-ARG1",
+            "O"
+        ]
+    },
+    {
+        "capability": "subj-obj-switching",
+        "test_type": "INV",
+        "test_case": [
+            "Elise hates Ann.",
+            "Ann hates Elise."
+        ],
+        "label": [
+            "B-ARG0",
+            "B-V",
+            "B-ARG1",
+            "O"
+        ]
+    },
+    {
+        "capability": "subj-obj-switching",
+        "test_type": "INV",
+        "test_case": [
+            "Pete despises Ann.",
+            "Ann despises Pete."
+        ],
+        "label": [
+            "B-ARG0",
+            "B-V",
+            "B-ARG1",
+            "O"
+        ]
+    },
+    {
+        "capability": "subj-obj-switching",
+        "test_type": "INV",
+        "test_case": [
+            "Frank despises Ann.",
+            "Ann despises Frank."
+        ],
+        "label": [
+            "B-ARG0",
+            "B-V",
+            "B-ARG1",
+            "O"
+        ]
+    },
+    {
+        "capability": "subj-obj-switching",
+        "test_type": "INV",
+        "test_case": [
+            "Marie despises Ann.",
+            "Ann despises Marie."
+        ],
+        "label": [
+            "B-ARG0",
+            "B-V",
+            "B-ARG1",
+            "O"
+        ]
+    },
+    {
+        "capability": "subj-obj-switching",
+        "test_type": "INV",
+        "test_case": [
+            "Elise despises Ann.",
+            "Ann despises Elise."
+        ],
+        "label": [
+            "B-ARG0",
+            "B-V",
+            "B-ARG1",
+            "O"
+        ]
+    },
+    {
+        "capability": "subj-obj-switching",
+        "test_type": "INV",
+        "test_case": [
+            "Pete hugs Ann.",
+            "Ann hugs Pete."
+        ],
+        "label": [
+            "B-ARG0",
+            "B-V",
+            "B-ARG1",
+            "O"
+        ]
+    },
+    {
+        "capability": "subj-obj-switching",
+        "test_type": "INV",
+        "test_case": [
+            "Frank hugs Ann.",
+            "Ann hugs Frank."
+        ],
+        "label": [
+            "B-ARG0",
+            "B-V",
+            "B-ARG1",
+            "O"
+        ]
+    },
+    {
+        "capability": "subj-obj-switching",
+        "test_type": "INV",
+        "test_case": [
+            "Marie hugs Ann.",
+            "Ann hugs Marie."
+        ],
+        "label": [
+            "B-ARG0",
+            "B-V",
+            "B-ARG1",
+            "O"
+        ]
+    },
+    {
+        "capability": "subj-obj-switching",
+        "test_type": "INV",
+        "test_case": [
+            "Elise hugs Ann.",
+            "Ann hugs Elise."
+        ],
+        "label": [
+            "B-ARG0",
+            "B-V",
+            "B-ARG1",
+            "O"
+        ]
+    },
+    {
+        "capability": "subj-obj-switching",
+        "test_type": "INV",
+        "test_case": [
+            "Pete loves Rose.",
+            "Rose loves Pete."
+        ],
+        "label": [
+            "B-ARG0",
+            "B-V",
+            "B-ARG1",
+            "O"
+        ]
+    },
+    {
+        "capability": "subj-obj-switching",
+        "test_type": "INV",
+        "test_case": [
+            "Frank loves Rose.",
+            "Rose loves Frank."
+        ],
+        "label": [
+            "B-ARG0",
+            "B-V",
+            "B-ARG1",
+            "O"
+        ]
+    },
+    {
+        "capability": "subj-obj-switching",
+        "test_type": "INV",
+        "test_case": [
+            "Marie loves Rose.",
+            "Rose loves Marie."
+        ],
+        "label": [
+            "B-ARG0",
+            "B-V",
+            "B-ARG1",
+            "O"
+        ]
+    },
+    {
+        "capability": "subj-obj-switching",
+        "test_type": "INV",
+        "test_case": [
+            "Elise loves Rose.",
+            "Rose loves Elise."
+        ],
+        "label": [
+            "B-ARG0",
+            "B-V",
+            "B-ARG1",
+            "O"
+        ]
+    },
+    {
+        "capability": "subj-obj-switching",
+        "test_type": "INV",
+        "test_case": [
+            "Pete likes Rose.",
+            "Rose likes Pete."
+        ],
+        "label": [
+            "B-ARG0",
+            "B-V",
+            "B-ARG1",
+            "O"
+        ]
+    },
+    {
+        "capability": "subj-obj-switching",
+        "test_type": "INV",
+        "test_case": [
+            "Frank likes Rose.",
+            "Rose likes Frank."
+        ],
+        "label": [
+            "B-ARG0",
+            "B-V",
+            "B-ARG1",
+            "O"
+        ]
+    },
+    {
+        "capability": "subj-obj-switching",
+        "test_type": "INV",
+        "test_case": [
+            "Marie likes Rose.",
+            "Rose likes Marie."
+        ],
+        "label": [
+            "B-ARG0",
+            "B-V",
+            "B-ARG1",
+            "O"
+        ]
+    },
+    {
+        "capability": "subj-obj-switching",
+        "test_type": "INV",
+        "test_case": [
+            "Elise likes Rose.",
+            "Rose likes Elise."
+        ],
+        "label": [
+            "B-ARG0",
+            "B-V",
+            "B-ARG1",
+            "O"
+        ]
+    },
+    {
+        "capability": "subj-obj-switching",
+        "test_type": "INV",
+        "test_case": [
+            "Pete hates Rose.",
+            "Rose hates Pete."
+        ],
+        "label": [
+            "B-ARG0",
+            "B-V",
+            "B-ARG1",
+            "O"
+        ]
+    },
+    {
+        "capability": "subj-obj-switching",
+        "test_type": "INV",
+        "test_case": [
+            "Frank hates Rose.",
+            "Rose hates Frank."
+        ],
+        "label": [
+            "B-ARG0",
+            "B-V",
+            "B-ARG1",
+            "O"
+        ]
+    },
+    {
+        "capability": "subj-obj-switching",
+        "test_type": "INV",
+        "test_case": [
+            "Marie hates Rose.",
+            "Rose hates Marie."
+        ],
+        "label": [
+            "B-ARG0",
+            "B-V",
+            "B-ARG1",
+            "O"
+        ]
+    },
+    {
+        "capability": "subj-obj-switching",
+        "test_type": "INV",
+        "test_case": [
+            "Elise hates Rose.",
+            "Rose hates Elise."
+        ],
+        "label": [
+            "B-ARG0",
+            "B-V",
+            "B-ARG1",
+            "O"
+        ]
+    },
+    {
+        "capability": "subj-obj-switching",
+        "test_type": "INV",
+        "test_case": [
+            "Pete despises Rose.",
+            "Rose despises Pete."
+        ],
+        "label": [
+            "B-ARG0",
+            "B-V",
+            "B-ARG1",
+            "O"
+        ]
+    },
+    {
+        "capability": "subj-obj-switching",
+        "test_type": "INV",
+        "test_case": [
+            "Frank despises Rose.",
+            "Rose despises Frank."
+        ],
+        "label": [
+            "B-ARG0",
+            "B-V",
+            "B-ARG1",
+            "O"
+        ]
+    },
+    {
+        "capability": "subj-obj-switching",
+        "test_type": "INV",
+        "test_case": [
+            "Marie despises Rose.",
+            "Rose despises Marie."
+        ],
+        "label": [
+            "B-ARG0",
+            "B-V",
+            "B-ARG1",
+            "O"
+        ]
+    },
+    {
+        "capability": "subj-obj-switching",
+        "test_type": "INV",
+        "test_case": [
+            "Elise despises Rose.",
+            "Rose despises Elise."
+        ],
+        "label": [
+            "B-ARG0",
+            "B-V",
+            "B-ARG1",
+            "O"
+        ]
+    },
+    {
+        "capability": "subj-obj-switching",
+        "test_type": "INV",
+        "test_case": [
+            "Pete hugs Rose.",
+            "Rose hugs Pete."
+        ],
+        "label": [
+            "B-ARG0",
+            "B-V",
+            "B-ARG1",
+            "O"
+        ]
+    },
+    {
+        "capability": "subj-obj-switching",
+        "test_type": "INV",
+        "test_case": [
+            "Frank hugs Rose.",
+            "Rose hugs Frank."
+        ],
+        "label": [
+            "B-ARG0",
+            "B-V",
+            "B-ARG1",
+            "O"
+        ]
+    },
+    {
+        "capability": "subj-obj-switching",
+        "test_type": "INV",
+        "test_case": [
+            "Marie hugs Rose.",
+            "Rose hugs Marie."
+        ],
+        "label": [
+            "B-ARG0",
+            "B-V",
+            "B-ARG1",
+            "O"
+        ]
+    },
+    {
+        "capability": "subj-obj-switching",
+        "test_type": "INV",
+        "test_case": [
+            "Elise hugs Rose.",
+            "Rose hugs Elise."
+        ],
+        "label": [
+            "B-ARG0",
+            "B-V",
+            "B-ARG1",
+            "O"
+        ]
+    },
+    {
+        "capability": "subj-obj-switching",
+        "test_type": "INV",
+        "test_case": [
+            "Pete loves Noah.",
+            "Noah loves Pete."
+        ],
+        "label": [
+            "B-ARG0",
+            "B-V",
+            "B-ARG1",
+            "O"
+        ]
+    },
+    {
+        "capability": "subj-obj-switching",
+        "test_type": "INV",
+        "test_case": [
+            "Frank loves Noah.",
+            "Noah loves Frank."
+        ],
+        "label": [
+            "B-ARG0",
+            "B-V",
+            "B-ARG1",
+            "O"
+        ]
+    },
+    {
+        "capability": "subj-obj-switching",
+        "test_type": "INV",
+        "test_case": [
+            "Marie loves Noah.",
+            "Noah loves Marie."
+        ],
+        "label": [
+            "B-ARG0",
+            "B-V",
+            "B-ARG1",
+            "O"
+        ]
+    },
+    {
+        "capability": "subj-obj-switching",
+        "test_type": "INV",
+        "test_case": [
+            "Elise loves Noah.",
+            "Noah loves Elise."
+        ],
+        "label": [
+            "B-ARG0",
+            "B-V",
+            "B-ARG1",
+            "O"
+        ]
+    },
+    {
+        "capability": "subj-obj-switching",
+        "test_type": "INV",
+        "test_case": [
+            "Pete likes Noah.",
+            "Noah likes Pete."
+        ],
+        "label": [
+            "B-ARG0",
+            "B-V",
+            "B-ARG1",
+            "O"
+        ]
+    },
+    {
+        "capability": "subj-obj-switching",
+        "test_type": "INV",
+        "test_case": [
+            "Frank likes Noah.",
+            "Noah likes Frank."
+        ],
+        "label": [
+            "B-ARG0",
+            "B-V",
+            "B-ARG1",
+            "O"
+        ]
+    },
+    {
+        "capability": "subj-obj-switching",
+        "test_type": "INV",
+        "test_case": [
+            "Marie likes Noah.",
+            "Noah likes Marie."
+        ],
+        "label": [
+            "B-ARG0",
+            "B-V",
+            "B-ARG1",
+            "O"
+        ]
+    },
+    {
+        "capability": "subj-obj-switching",
+        "test_type": "INV",
+        "test_case": [
+            "Elise likes Noah.",
+            "Noah likes Elise."
+        ],
+        "label": [
+            "B-ARG0",
+            "B-V",
+            "B-ARG1",
+            "O"
+        ]
+    },
+    {
+        "capability": "subj-obj-switching",
+        "test_type": "INV",
+        "test_case": [
+            "Pete hates Noah.",
+            "Noah hates Pete."
+        ],
+        "label": [
+            "B-ARG0",
+            "B-V",
+            "B-ARG1",
+            "O"
+        ]
+    },
+    {
+        "capability": "subj-obj-switching",
+        "test_type": "INV",
+        "test_case": [
+            "Frank hates Noah.",
+            "Noah hates Frank."
+        ],
+        "label": [
+            "B-ARG0",
+            "B-V",
+            "B-ARG1",
+            "O"
+        ]
+    },
+    {
+        "capability": "subj-obj-switching",
+        "test_type": "INV",
+        "test_case": [
+            "Marie hates Noah.",
+            "Noah hates Marie."
+        ],
+        "label": [
+            "B-ARG0",
+            "B-V",
+            "B-ARG1",
+            "O"
+        ]
+    },
+    {
+        "capability": "subj-obj-switching",
+        "test_type": "INV",
+        "test_case": [
+            "Elise hates Noah.",
+            "Noah hates Elise."
+        ],
+        "label": [
+            "B-ARG0",
+            "B-V",
+            "B-ARG1",
+            "O"
+        ]
+    },
+    {
+        "capability": "subj-obj-switching",
+        "test_type": "INV",
+        "test_case": [
+            "Pete despises Noah.",
+            "Noah despises Pete."
+        ],
+        "label": [
+            "B-ARG0",
+            "B-V",
+            "B-ARG1",
+            "O"
+        ]
+    },
+    {
+        "capability": "subj-obj-switching",
+        "test_type": "INV",
+        "test_case": [
+            "Frank despises Noah.",
+            "Noah despises Frank."
+        ],
+        "label": [
+            "B-ARG0",
+            "B-V",
+            "B-ARG1",
+            "O"
+        ]
+    },
+    {
+        "capability": "subj-obj-switching",
+        "test_type": "INV",
+        "test_case": [
+            "Marie despises Noah.",
+            "Noah despises Marie."
+        ],
+        "label": [
+            "B-ARG0",
+            "B-V",
+            "B-ARG1",
+            "O"
+        ]
+    },
+    {
+        "capability": "subj-obj-switching",
+        "test_type": "INV",
+        "test_case": [
+            "Elise despises Noah.",
+            "Noah despises Elise."
+        ],
+        "label": [
+            "B-ARG0",
+            "B-V",
+            "B-ARG1",
+            "O"
+        ]
+    },
+    {
+        "capability": "subj-obj-switching",
+        "test_type": "INV",
+        "test_case": [
+            "Pete hugs Noah.",
+            "Noah hugs Pete."
+        ],
+        "label": [
+            "B-ARG0",
+            "B-V",
+            "B-ARG1",
+            "O"
+        ]
+    },
+    {
+        "capability": "subj-obj-switching",
+        "test_type": "INV",
+        "test_case": [
+            "Frank hugs Noah.",
+            "Noah hugs Frank."
+        ],
+        "label": [
+            "B-ARG0",
+            "B-V",
+            "B-ARG1",
+            "O"
+        ]
+    },
+    {
+        "capability": "subj-obj-switching",
+        "test_type": "INV",
+        "test_case": [
+            "Marie hugs Noah.",
+            "Noah hugs Marie."
+        ],
+        "label": [
+            "B-ARG0",
+            "B-V",
+            "B-ARG1",
+            "O"
+        ]
+    },
+    {
+        "capability": "subj-obj-switching",
+        "test_type": "INV",
+        "test_case": [
+            "Elise hugs Noah.",
+            "Noah hugs Elise."
+        ],
+        "label": [
+            "B-ARG0",
+            "B-V",
+            "B-ARG1",
+            "O"
+        ]
+    },
+    {
+        "capability": "subj-obj-switching",
+        "test_type": "INV",
+        "test_case": [
+            "Pete loves Coco.",
+            "Coco loves Pete."
+        ],
+        "label": [
+            "B-ARG0",
+            "B-V",
+            "B-ARG1",
+            "O"
+        ]
+    },
+    {
+        "capability": "subj-obj-switching",
+        "test_type": "INV",
+        "test_case": [
+            "Frank loves Coco.",
+            "Coco loves Frank."
+        ],
+        "label": [
+            "B-ARG0",
+            "B-V",
+            "B-ARG1",
+            "O"
+        ]
+    },
+    {
+        "capability": "subj-obj-switching",
+        "test_type": "INV",
+        "test_case": [
+            "Marie loves Coco.",
+            "Coco loves Marie."
+        ],
+        "label": [
+            "B-ARG0",
+            "B-V",
+            "B-ARG1",
+            "O"
+        ]
+    },
+    {
+        "capability": "subj-obj-switching",
+        "test_type": "INV",
+        "test_case": [
+            "Elise loves Coco.",
+            "Coco loves Elise."
+        ],
+        "label": [
+            "B-ARG0",
+            "B-V",
+            "B-ARG1",
+            "O"
+        ]
+    },
+    {
+        "capability": "subj-obj-switching",
+        "test_type": "INV",
+        "test_case": [
+            "Pete likes Coco.",
+            "Coco likes Pete."
+        ],
+        "label": [
+            "B-ARG0",
+            "B-V",
+            "B-ARG1",
+            "O"
+        ]
+    },
+    {
+        "capability": "subj-obj-switching",
+        "test_type": "INV",
+        "test_case": [
+            "Frank likes Coco.",
+            "Coco likes Frank."
+        ],
+        "label": [
+            "B-ARG0",
+            "B-V",
+            "B-ARG1",
+            "O"
+        ]
+    },
+    {
+        "capability": "subj-obj-switching",
+        "test_type": "INV",
+        "test_case": [
+            "Marie likes Coco.",
+            "Coco likes Marie."
+        ],
+        "label": [
+            "B-ARG0",
+            "B-V",
+            "B-ARG1",
+            "O"
+        ]
+    },
+    {
+        "capability": "subj-obj-switching",
+        "test_type": "INV",
+        "test_case": [
+            "Elise likes Coco.",
+            "Coco likes Elise."
+        ],
+        "label": [
+            "B-ARG0",
+            "B-V",
+            "B-ARG1",
+            "O"
+        ]
+    },
+    {
+        "capability": "subj-obj-switching",
+        "test_type": "INV",
+        "test_case": [
+            "Pete hates Coco.",
+            "Coco hates Pete."
+        ],
+        "label": [
+            "B-ARG0",
+            "B-V",
+            "B-ARG1",
+            "O"
+        ]
+    },
+    {
+        "capability": "subj-obj-switching",
+        "test_type": "INV",
+        "test_case": [
+            "Frank hates Coco.",
+            "Coco hates Frank."
+        ],
+        "label": [
+            "B-ARG0",
+            "B-V",
+            "B-ARG1",
+            "O"
+        ]
+    },
+    {
+        "capability": "subj-obj-switching",
+        "test_type": "INV",
+        "test_case": [
+            "Marie hates Coco.",
+            "Coco hates Marie."
+        ],
+        "label": [
+            "B-ARG0",
+            "B-V",
+            "B-ARG1",
+            "O"
+        ]
+    },
+    {
+        "capability": "subj-obj-switching",
+        "test_type": "INV",
+        "test_case": [
+            "Elise hates Coco.",
+            "Coco hates Elise."
+        ],
+        "label": [
+            "B-ARG0",
+            "B-V",
+            "B-ARG1",
+            "O"
+        ]
+    },
+    {
+        "capability": "subj-obj-switching",
+        "test_type": "INV",
+        "test_case": [
+            "Pete despises Coco.",
+            "Coco despises Pete."
+        ],
+        "label": [
+            "B-ARG0",
+            "B-V",
+            "B-ARG1",
+            "O"
+        ]
+    },
+    {
+        "capability": "subj-obj-switching",
+        "test_type": "INV",
+        "test_case": [
+            "Frank despises Coco.",
+            "Coco despises Frank."
+        ],
+        "label": [
+            "B-ARG0",
+            "B-V",
+            "B-ARG1",
+            "O"
+        ]
+    },
+    {
+        "capability": "subj-obj-switching",
+        "test_type": "INV",
+        "test_case": [
+            "Marie despises Coco.",
+            "Coco despises Marie."
+        ],
+        "label": [
+            "B-ARG0",
+            "B-V",
+            "B-ARG1",
+            "O"
+        ]
+    },
+    {
+        "capability": "subj-obj-switching",
+        "test_type": "INV",
+        "test_case": [
+            "Elise despises Coco.",
+            "Coco despises Elise."
+        ],
+        "label": [
+            "B-ARG0",
+            "B-V",
+            "B-ARG1",
+            "O"
+        ]
+    },
+    {
+        "capability": "subj-obj-switching",
+        "test_type": "INV",
+        "test_case": [
+            "Pete hugs Coco.",
+            "Coco hugs Pete."
+        ],
+        "label": [
+            "B-ARG0",
+            "B-V",
+            "B-ARG1",
+            "O"
+        ]
+    },
+    {
+        "capability": "subj-obj-switching",
+        "test_type": "INV",
+        "test_case": [
+            "Frank hugs Coco.",
+            "Coco hugs Frank."
+        ],
+        "label": [
+            "B-ARG0",
+            "B-V",
+            "B-ARG1",
+            "O"
+        ]
+    },
+    {
+        "capability": "subj-obj-switching",
+        "test_type": "INV",
+        "test_case": [
+            "Marie hugs Coco.",
+            "Coco hugs Marie."
+        ],
+        "label": [
+            "B-ARG0",
+            "B-V",
+            "B-ARG1",
+            "O"
+        ]
+    },
+    {
+        "capability": "subj-obj-switching",
+        "test_type": "INV",
+        "test_case": [
+            "Elise hugs Coco.",
+            "Coco hugs Elise."
+        ],
+        "label": [
+            "B-ARG0",
+            "B-V",
+            "B-ARG1",
+            "O"
+        ]
+    }
+]

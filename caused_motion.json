@@ -1,0 +1,552 @@
+[
+    {
+        "capability": "caused-motion",
+        "test_type": "MFT",
+        "test_case": "The wind blew.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "B-V",
+            "O"
+        ]
+    },
+    {
+        "capability": "caused-motion",
+        "test_type": "MFT",
+        "test_case": "The cat knocked.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "B-V",
+            "O"
+        ]
+    },
+    {
+        "capability": "caused-motion",
+        "test_type": "MFT",
+        "test_case": "The chef rolled.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "B-V",
+            "O"
+        ]
+    },
+    {
+        "capability": "caused-motion",
+        "test_type": "MFT",
+        "test_case": "The child dragged.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "B-V",
+            "O"
+        ]
+    },
+    {
+        "capability": "caused-motion",
+        "test_type": "MFT",
+        "test_case": "The hammer struck.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "B-V",
+            "O"
+        ]
+    },
+    {
+        "capability": "caused-motion",
+        "test_type": "MFT",
+        "test_case": "The man pushed.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "B-V",
+            "O"
+        ]
+    },
+    {
+        "capability": "caused-motion",
+        "test_type": "MFT",
+        "test_case": "The ball bounced.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "B-V",
+            "O"
+        ]
+    },
+    {
+        "capability": "caused-motion",
+        "test_type": "MFT",
+        "test_case": "The girl threw.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "B-V",
+            "O"
+        ]
+    },
+    {
+        "capability": "caused-motion",
+        "test_type": "MFT",
+        "test_case": "The storm blew.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "B-V",
+            "O"
+        ]
+    },
+    {
+        "capability": "caused-motion",
+        "test_type": "MFT",
+        "test_case": "The skater glided.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "B-V",
+            "O"
+        ]
+    },
+    {
+        "capability": "caused-motion",
+        "test_type": "MFT",
+        "test_case": "The boat floated.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "B-V",
+            "O"
+        ]
+    },
+    {
+        "capability": "caused-motion",
+        "test_type": "MFT",
+        "test_case": "The boy kicked.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "B-V",
+            "O"
+        ]
+    },
+    {
+        "capability": "caused-motion",
+        "test_type": "MFT",
+        "test_case": "The bulldozer pushed.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "B-V",
+            "O"
+        ]
+    },
+    {
+        "capability": "caused-motion",
+        "test_type": "MFT",
+        "test_case": "The waiter served.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "B-V",
+            "O"
+        ]
+    },
+    {
+        "capability": "caused-motion",
+        "test_type": "MFT",
+        "test_case": "The guitarist strummed.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "B-V",
+            "O"
+        ]
+    },
+    {
+        "capability": "caused-motion",
+        "test_type": "MFT",
+        "test_case": "The farmer drove.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "B-V",
+            "O"
+        ]
+    },
+    {
+        "capability": "caused-motion",
+        "test_type": "MFT",
+        "test_case": "The rocket launched.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "B-V",
+            "O"
+        ]
+    },
+    {
+        "capability": "caused-motion",
+        "test_type": "MFT",
+        "test_case": "The dog chased.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "B-V",
+            "O"
+        ]
+    },
+    {
+        "capability": "caused-motion",
+        "test_type": "MFT",
+        "test_case": "The child pushed.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "B-V",
+            "O"
+        ]
+    },
+    {
+        "capability": "caused-motion",
+        "test_type": "MFT",
+        "test_case": "The dog chased.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "B-V",
+            "O"
+        ]
+    },
+    {
+        "capability": "caused-motion",
+        "test_type": "MFT",
+        "test_case": "The train pulled.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "B-V",
+            "O"
+        ]
+    },
+    {
+        "capability": "caused-motion",
+        "test_type": "MFT",
+        "test_case": "The bird flew.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "B-V",
+            "O"
+        ]
+    },
+    {
+        "capability": "caused-motion",
+        "test_type": "MFT",
+        "test_case": "The boat drifted.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "B-V",
+            "O"
+        ]
+    },
+    {
+        "capability": "caused-motion",
+        "test_type": "MFT",
+        "test_case": "The man kicked.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "B-V",
+            "O"
+        ]
+    },
+    {
+        "capability": "caused-motion",
+        "test_type": "MFT",
+        "test_case": "The wave crashed.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "B-V",
+            "O"
+        ]
+    },
+    {
+        "capability": "caused-motion",
+        "test_type": "MFT",
+        "test_case": "The car hit.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "B-V",
+            "O"
+        ]
+    },
+    {
+        "capability": "caused-motion",
+        "test_type": "MFT",
+        "test_case": "The arrow pierced.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "B-V",
+            "O"
+        ]
+    },
+    {
+        "capability": "caused-motion",
+        "test_type": "MFT",
+        "test_case": "The skater glided.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "B-V",
+            "O"
+        ]
+    },
+    {
+        "capability": "caused-motion",
+        "test_type": "MFT",
+        "test_case": "The rock rolled.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "B-V",
+            "O"
+        ]
+    },
+    {
+        "capability": "caused-motion",
+        "test_type": "MFT",
+        "test_case": "The woman threw.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "B-V",
+            "O"
+        ]
+    },
+    {
+        "capability": "caused-motion",
+        "test_type": "MFT",
+        "test_case": "The butterfly fluttered.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "B-V",
+            "O"
+        ]
+    },
+    {
+        "capability": "caused-motion",
+        "test_type": "MFT",
+        "test_case": "The leaf fell.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "B-V",
+            "O"
+        ]
+    },
+    {
+        "capability": "caused-motion",
+        "test_type": "MFT",
+        "test_case": "The boy kicked.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "B-V",
+            "O"
+        ]
+    },
+    {
+        "capability": "caused-motion",
+        "test_type": "MFT",
+        "test_case": "The hand waved.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "B-V",
+            "O"
+        ]
+    },
+    {
+        "capability": "caused-motion",
+        "test_type": "MFT",
+        "test_case": "The balloon floated.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "B-V",
+            "O"
+        ]
+    },
+    {
+        "capability": "caused-motion",
+        "test_type": "MFT",
+        "test_case": "The plane soared.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "B-V",
+            "O"
+        ]
+    },
+    {
+        "capability": "caused-motion",
+        "test_type": "MFT",
+        "test_case": "The horse galloped.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "B-V",
+            "O"
+        ]
+    },
+    {
+        "capability": "caused-motion",
+        "test_type": "MFT",
+        "test_case": "The snake slithered.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "B-V",
+            "O"
+        ]
+    },
+    {
+        "capability": "caused-motion",
+        "test_type": "MFT",
+        "test_case": "The cat jumped.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "B-V",
+            "O"
+        ]
+    },
+    {
+        "capability": "caused-motion",
+        "test_type": "MFT",
+        "test_case": "The fire burned.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "B-V",
+            "O"
+        ]
+    },
+    {
+        "capability": "caused-motion",
+        "test_type": "MFT",
+        "test_case": "The arrow flew.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "B-V",
+            "O"
+        ]
+    },
+    {
+        "capability": "caused-motion",
+        "test_type": "MFT",
+        "test_case": "The water flowed.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "B-V",
+            "O"
+        ]
+    },
+    {
+        "capability": "caused-motion",
+        "test_type": "MFT",
+        "test_case": "The wind howled.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "B-V",
+            "O"
+        ]
+    },
+    {
+        "capability": "caused-motion",
+        "test_type": "MFT",
+        "test_case": "The bird chirped.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "B-V",
+            "O"
+        ]
+    },
+    {
+        "capability": "caused-motion",
+        "test_type": "MFT",
+        "test_case": "The whale swam.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "B-V",
+            "O"
+        ]
+    },
+    {
+        "capability": "caused-motion",
+        "test_type": "MFT",
+        "test_case": "The ice cracked.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "B-V",
+            "O"
+        ]
+    },
+    {
+        "capability": "caused-motion",
+        "test_type": "MFT",
+        "test_case": "The bike rode.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "B-V",
+            "O"
+        ]
+    },
+    {
+        "capability": "caused-motion",
+        "test_type": "MFT",
+        "test_case": "The door slammed.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "B-V",
+            "O"
+        ]
+    },
+    {
+        "capability": "caused-motion",
+        "test_type": "MFT",
+        "test_case": "The frog leaped.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "B-V",
+            "O"
+        ]
+    },
+    {
+        "capability": "caused-motion",
+        "test_type": "MFT",
+        "test_case": "The monkey climbed.",
+        "label": [
+            "B-ARG1",
+            "I-ARG1",
+            "B-V",
+            "O"
+        ]
+    }
+]
